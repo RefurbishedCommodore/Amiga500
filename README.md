@@ -1,1 +1,1 @@
-# Amiga500
+# Amiga 500
