@@ -28,7 +28,18 @@ This Amiga 500 looks quite nice I think. It appears to be complete, and intact, 
 
 There is a blend of screws used on the bottom cover: three torx and three Phillips. Also, there are no machine screws holding the internal floppy drive. My hunch is that this machine has been repaired (or tried repaired) previously.
 
-Below are some pictures of the machine beforer refurbish.
+Below are some pictures of the machine beforer refurbish (click to enlarge).
+
+<!---
+<p align="center" float="left">
+    <img src="Images/Start06.jpeg" alt="Description" width="400">
+    <img src="Images/Start05.jpeg" alt="Description" width="400">
+    <img src="Images/Start04.jpeg" alt="Description" width="400">
+    <img src="Images/Start03.jpeg" alt="Description" width="400">
+    <img src="Images/Start02.jpeg" alt="Description" width="400">
+    <img src="Images/Start01.jpeg" alt="Description" width="400">
+</p>
+--->
 
 <p align="center">
     <img src="Images/Start06.jpeg" alt="Description" width="600">
