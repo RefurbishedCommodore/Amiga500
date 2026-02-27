@@ -1,8 +1,8 @@
-![Name](https://img.shields.io/badge/Serial_No.-12345678-white?style=plastic)
+![Name](https://img.shields.io/badge/Serial_No.-1-white?style=plastic)
 <br>
-![Name](https://img.shields.io/badge/Assy-250407-white?style=plastic)
-![Name](https://img.shields.io/badge/Artwork-251137-white?style=plastic)
-![Name](https://img.shields.io/badge/Revision-B-white?style=plastic)
+![Name](https://img.shields.io/badge/Assy-312510-white?style=plastic)
+![Name](https://img.shields.io/badge/Artwork-312513-white?style=plastic)
+![Name](https://img.shields.io/badge/Revision-6A-white?style=plastic)
 ![Name](https://img.shields.io/badge/Video_format-PAL-white?style=plastic)
 
 
