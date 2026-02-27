@@ -24,9 +24,27 @@
 
 # Starting point
 
+This Amiga 500 looks quite nice I think. It appears to be complete, and intact, from a mechanical point of view. It has obviously been opened previously as both warranty seals (on the underside and the rear) are broken. It is quite dirty - there is a significant amount of dirt and dust in the keyboard and the air grooves. There does not appear to be much corrosion on the metal shield and connectors on the rear.
+
+There is a blend of screws used on the bottom cover: three torx and three Phillips. Also, there are no machine screws holding the internal floppy drive. My hunch is that this machine has been repaired (or tried repaired) previously.
+
+Below are some pictures of the machine beforer refurbish.
+
 <p align="center">
-    <img src="Images/testimage.png" alt="Description" width="300">
+    <img src="Images/Start06.jpeg" alt="Description" width="600">
+    <img src="Images/Start05.jpeg" alt="Description" width="600">
+    <img src="Images/Start04.jpeg" alt="Description" width="600">
+    <img src="Images/Start03.jpeg" alt="Description" width="600">
+    <img src="Images/Start02.jpeg" alt="Description" width="600">
+    <img src="Images/Start01.jpeg" alt="Description" width="600">
 </p>
+
+There is something special interesting about this machine also: it´s serial number is #1. Of course, this is not a first Amiga of any kind. From some Google search I learned that Commodore used these #1 labels when machines were repaired/refurbished.
+
+<p align="center">
+    <img src="Images/Start07.jpeg" alt="Description" width="600">
+</p>
+
 
 
 # Refurbishment plan
