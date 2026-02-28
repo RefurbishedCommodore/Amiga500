@@ -30,17 +30,6 @@ There is a blend of screws used on the bottom cover: three torx and three Philli
 
 Below are some pictures of the machine beforer refurbish (click to enlarge).
 
-<!---
-<p align="center" float="left">
-    <img src="Images/Start06.jpeg" alt="Description" width="400">
-    <img src="Images/Start05.jpeg" alt="Description" width="400">
-    <img src="Images/Start04.jpeg" alt="Description" width="400">
-    <img src="Images/Start03.jpeg" alt="Description" width="400">
-    <img src="Images/Start02.jpeg" alt="Description" width="400">
-    <img src="Images/Start01.jpeg" alt="Description" width="400">
-</p>
---->
-
 <p align="center">
     <img src="Images/Start06.jpeg" alt="Description" width="600">
     <img src="Images/Start05.jpeg" alt="Description" width="600">
@@ -55,38 +44,33 @@ There is something special interesting about this machine also: it´s serial num
 <p align="center">
     <img src="Images/Start07.jpeg" alt="Description" width="600">
 </p>
+<br>
 
+# Refurbishment activities
 
+The planned refurbishment activites for this Amiga 500 (Order may vary. Several of them in parallell):
 
-# Refurbishment plan
-
-The * *refurbishment plan for this C64 breadbin (several of them in parallell): [^1].
-
-- [x] Refurbish the casing (cleaning, repairing and retrobrighting)
-- [ ] Refurbish the casing (cleaning, repairing and retrobrighting)
-- [ ] Refurbish the keyboard (cleaning, reviving the plungers and retrobrighting)
-- [ ] Refurbish main board (cleaning, checking, repairing, replacing capacitors and voltage regulators, adding heat sinks etc.)
-- [ ] Recap RF-modulator
-- [ ] Verify operation by testing
+- [ ] Refurbish the casing
+- [ ] Refurbish the keyboard
+- [ ] Refurbish mainboard
+- [ ] Testing and validation
 
 The plan can be updated during the refurbishment process. Sometimes I discover areas that needs special attention.
+<br>
 
-[^1] hello
-Here is some inline code```
+# Initial testing
 
-| Chip | Version | Date code | Position | Socketed | Note |
-|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| CPU | MOS 6510 | W27 Y1985 | Ux | No |  |
-| SID | MOS 6581AR4 | W27 Y1985 | Ux | Yes |  The best |
-| VIC | MOS 6567AR8 | W27 Y1985 | Ux | Yes | |
-| PLA | MOS 906114-01	 | W27 Y1985 | Ux | No |  |
-| CIA#1 | MOS 6526	 | W27 Y1985 | Ux | No |  |
-| CIA#2 | MOS 6526	 | W27 Y1985 | Ux |  No |  |
-| ROM - Character | MOS 901225-01	 | W27 Y1985 | Ux | No |   |
-| ROM - Kernal | MOS 901227-03	 | W27 Y1985 | Ux | No |  |
-| ROM - BASIC | MOS 901226-01	 | W27 Y1985 | Ux | No |  |
+Before the refurbish commence, the Amiga 500 is connected to a TV set and powered on. This is to get an understanding of health of the machine. It is not meant as a complete test, but as an initial test.
 
+The results are shown in the table below:
 
+| Test area | Test criteria | Result | Comment |
+|:----------|:----------|:----------:|:----------|
+| Boot up | ROM boot up screen is displayed | FAILED | Only green screen displayed |
+| Floppy | Floppy drive is ticking | FAILED | No response from floppy drive | 
+| LED | LED lights are lit correct | FAILED | Power light is flashing (~1s frequency)|
+
+[![alt text for video thumbnail](https://img.youtube.com)](https://youtube.com/shorts/vrPpR4bFNvo?feature=share)
 
 | MOS Glue logic chips |
 |:----------:|
