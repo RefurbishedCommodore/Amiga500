@@ -109,7 +109,13 @@ The top cover is lifted away and the interior is exposed. Next action is to remo
 
 <p align="center">
     <img src="Images/Dis04.jpeg" alt="Description" width="600">
-    <img src="Images/Dis05.jpeg" alt="Description" width="356">
+    <img src="Images/Dis05.jpeg" alt="Description" width="600">
+</p>
+
+Wow! When the keyboard is removed the whole RF-shield is exposed. And what a view! It is not often I see RF-shields without any corrosion. This looks pristine.
+
+<p align="center">
+    <img src="Images/Dis06.jpeg" alt="Description" width="800">
 </p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
