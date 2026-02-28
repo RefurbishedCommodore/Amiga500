@@ -105,4 +105,11 @@ With the six screws put of the way the machine is flipped back to upright positi
     <img src="Images/Dis03.jpeg" alt="Description" width="356">
 </p>
 
+The top cover is lifted away and the interior is exposed. Next action is to remove the keyboard. This is done by simply (carefully) pulling the 8-pin connector (of which only seven pins are used). **NOTE:** Take care to remember the original direction of the keyboard connector as this can be installed the wrong way when re-assembling.
+
+<p align="center">
+    <img src="Images/Dis04.jpeg" alt="Description" width="600">
+    <img src="Images/Dis05.jpeg" alt="Description" width="356">
+</p>
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
