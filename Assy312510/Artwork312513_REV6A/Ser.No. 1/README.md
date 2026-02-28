@@ -120,7 +120,7 @@ Wow! When the keyboard is removed the whole RF-shield is exposed. And what a vie
 
 The four torx head screws are removed (see wide arrows), the four metal tabs are folded to upright position (see small arrows) and the metal RF-shield is lifted from the mainboard. **NOTE:** When removing the RF-shield make sure to clean it properly soon after. The metal shield will easily start to corrode if there are fat/grease from human hands.
 
-I notice something I have never seen before on an Amiga. There are four plastic "rods" sticking out from the RF-shield. I am not sure what the purpose of this, but with closer investigation it can seem like this is a support bracket to prevent the RF-shield from bending? The plastic bracket will sit between the `FAT AGNUS` chip and `DATA PATH` chip area.
+I notice something I have never seen before on an Amiga. There are four plastic "rods" sticking out from the RF-shield. I am not sure what the purpose of this, but with closer investigation it can seem like this is a support bracket to prevent the RF-shield from bending? The plastic bracket will sit between the `FAT AGNUS` chip and DATA PATH chip area.
 
 <p align="center" float="left">
     <img src="Images/Dis07.jpeg" alt="Description" width="400">
