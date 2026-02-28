@@ -21,6 +21,9 @@
     <li>
       <a href="#initial-testing">Initial testing</a>
     </li>
+    <li>
+      <a href="#disassembly">Disassembly</a>
+    </li>
   </ul>
 </details>
 
