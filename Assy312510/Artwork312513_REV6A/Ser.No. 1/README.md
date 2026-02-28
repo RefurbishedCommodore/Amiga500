@@ -141,4 +141,10 @@ The bottom cover and the bottom RF-shield also seem to be in fine condition too.
     <img src="Images/Dis12.jpeg" alt="Description" width="431">
 </p>
 
+Notice that to remove the mainboard from the RF-shield all the 5mm hex nut bolts needs to be removed.
+
+<p align="center">
+    <img src="Images/Dis13.jpeg" alt="Description" width="1000">
+</p>
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
