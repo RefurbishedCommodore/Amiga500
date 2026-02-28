@@ -66,7 +66,7 @@ The plan can be updated during the refurbishment process. Sometimes I discover a
 Before the refurbish commence, the Amiga 500 is connected to a TV set and powered on. This is to get an understanding of health of the machine. It is not meant as a complete test, but as an initial test.
 
 The results are shown in the table below:
-
+  
 | Test area | Test criteria | Result | Comment |
 |:----------|:----------|:----------:|:----------|
 | Boot up | ROM boot up screen is displayed | FAILED | Only green screen displayed |
@@ -75,8 +75,11 @@ The results are shown in the table below:
 
 A video from the inital in the YouTube link below:
 
+<div align="center">
+  
 [![Click to Watch](https://i9.ytimg.com/vi/vrPpR4bFNvo/mq2.jpg?sqp=CPiyis0G-oaymwEoCMACELQB8quKqQMcGADwAQH4Ad4DgALWBooCDAgAEAEYZSBdKFQwDw==&rs=AOn4CLBe-KnsyXV3KyXo_8VdwFhxtTHj2A)](https://youtube.com/shorts/vrPpR4bFNvo?feature=share).
 
+</div>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
