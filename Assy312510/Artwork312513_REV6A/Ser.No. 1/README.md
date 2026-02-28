@@ -70,10 +70,11 @@ The results are shown in the table below:
 | Floppy | Floppy drive is ticking | FAILED | No response from floppy drive | 
 | LED | LED lights are lit correct | FAILED | Power light is flashing (~1s frequency)|
 
-[![alt text for video thumbnail](https://img.youtube.com)](https://youtube.com/shorts/vrPpR4bFNvo?feature=share)
+<iframe width="315" height="560" src="https://www.youtube.com/embed/vrPpR4bFNvo?si=ChfhaZycc5JWut-c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-<iframe width="315" height="560" src="https://www.youtube.com/embed/vrPpR4bFNvo?si=ChfhaZycc5JWut-c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>.
+<iframe width="315" height="560" src="https://www.youtube.com/embed/VIDEO_ID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 | MOS Glue logic chips |
 |:----------:|
