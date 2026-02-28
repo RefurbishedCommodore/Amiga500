@@ -131,6 +131,7 @@ With the RF-shield removed the mainboard is exposed. And it looks to be in very 
 
 <p align="center">
     <img src="Images/Dis09.jpeg" alt="Description" width="800">
+    <img src="Images/Dis10.jpeg" alt="Description" width="800">
 </p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
