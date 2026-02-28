@@ -24,6 +24,9 @@
     <li>
       <a href="#disassembly">Disassembly</a>
     </li>
+    <li>
+      <a href="#mainboard">Mainboard</a>
+    </li>
   </ul>
 </details>
 
@@ -89,6 +92,7 @@ A video from the inital in the YouTube link below:
 </div>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+<br>
 
 # Disassembly
 
@@ -148,3 +152,10 @@ Notice that to remove the mainboard from the RF-shield all the 5mm hex nut bolts
 </p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+<br>
+
+# Mainboard
+
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+<br>
+
