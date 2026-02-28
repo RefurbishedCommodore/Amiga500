@@ -122,4 +122,9 @@ The four torx head screws are removed (see wide arrows), the four metal tabs are
 
 I notice something I have never seen before on an Amiga. There are four plastic "rods" sticking out from the RF-shield. I am not sure what the purpose of this, but with closer investigation it can seem like this is a support bracket to prevent the RF-shield from bending? The plastic bracket will sit between the `FAT AGNUS` chip and `DATA PATH` chip area.
 
+<p align="center" float="left">
+    <img src="Images/Dis07.jpeg" alt="Description" width="400">
+    <img src="Images/Dis08.jpeg" alt="Description" width="460">
+</p>
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
