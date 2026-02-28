@@ -100,7 +100,9 @@ Disassembling the Amiga 500 is straightforward. First is to remove the six screw
 
 With the six screws put of the way the machine is flipped back to upright position. Now the top cover is carefully pried off - note that there are two small plastic clips in the slit on each side of the covers. I recommend using a thin plastic spudger when releasing the small clips.
 
-<p align="center">
-    <img src="Images/Dis02.jpeg" alt="Description" width="800">
+<p align="center" float="left">
+    <img src="Images/Dis02.jpeg" alt="Description" width="600">
+    <img src="Images/Dis03.jpeg" alt="Description" width="356">
 </p>
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
