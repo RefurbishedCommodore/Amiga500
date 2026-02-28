@@ -52,7 +52,7 @@ There is something special interesting about this machine also: it´s serial num
 </p>
 <br>
 
-# Refurbishment activities
+# Refurbish activities
 
 The planned refurbishment activites for this Amiga 500 (Order may vary. Several of them in parallell):
 
@@ -112,10 +112,14 @@ The top cover is lifted away and the interior is exposed. Next action is to remo
     <img src="Images/Dis05.jpeg" alt="Description" width="600">
 </p>
 
-Wow! When the keyboard is removed the whole RF-shield is exposed. And what a view! It is not often I see RF-shields without any corrosion. This looks pristine.
+Wow! When the keyboard is removed the whole RF-shield is exposed. And what a view! It is not often I see RF-shields without any corrosion. This looks pristine. Also, it looks like the four metal tabs are intact - which is not that common. These are quite fragile and easily break.
 
 <p align="center">
     <img src="Images/Dis06.jpeg" alt="Description" width="800">
 </p>
+
+The four torx head screws are removed (see wide arrows), the four metal tabs are folded to upright position (see small arrows) and the metal RF-shield is lifted from the mainboard. **NOTE:** When removing the RF-shield make sure to clean it properly soon after. The metal shield will easily start to corrode if there are fat/grease from human hands.
+
+I notice something I have never seen before on an Amiga. There are four plastic "rods" sticking out from the RF-shield. I am not sure what the purpose of this, but with closer investigation it can seem like this is a support bracket to prevent the RF-shield from bending? The plastic bracket will sit between the `FAT AGNUS` chip and `DATA PATH` chip area.
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
