@@ -127,4 +127,10 @@ I notice something I have never seen before on an Amiga. There are four plastic 
     <img src="Images/Dis08.jpeg" alt="Description" width="460">
 </p>
 
+With the RF-shield removed the mainboard is exposed. And it looks to be in very good condition at first glance. There are some dust inside, but other than that it looks very nice. To remove the mainboard from the bottom cover the small plastic clip is pushed back. Note that these plastic clips are brittle so care must be taken to not break it. Also, the small screw holding the internal floppy drive is removed together with the two floppy drive connectors.
+
+<p align="center">
+    <img src="Images/Dis09.jpeg" alt="Description" width="800">
+</p>
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
