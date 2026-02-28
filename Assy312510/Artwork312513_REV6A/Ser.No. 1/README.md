@@ -84,7 +84,7 @@ A video from the inital in the YouTube link below:
 
 <div align="center">
   
-[![Click to Watch](https://i9.ytimg.com/vi/vrPpR4bFNvo/mq2.jpg?sqp=CPiyis0G-oaymwEoCMACELQB8quKqQMcGADwAQH4Ad4DgALWBooCDAgAEAEYZSBdKFQwDw==&rs=AOn4CLBe-KnsyXV3KyXo_8VdwFhxtTHj2A)](https://youtube.com/shorts/vrPpR4bFNvo?feature=share).
+[![Click to Watch](https://i9.ytimg.com/vi/vrPpR4bFNvo/mq2.jpg?sqp=CPiyis0G-oaymwEoCMACELQB8quKqQMcGADwAQH4Ad4DgALWBooCDAgAEAEYZSBdKFQwDw==&rs=AOn4CLBe-KnsyXV3KyXo_8VdwFhxtTHj2A)](https://youtube.com/shorts/vrPpR4bFNvo?feature=share)
 
 </div>
 
