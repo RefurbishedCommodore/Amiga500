@@ -89,6 +89,10 @@ A video from the inital in the YouTube link below:
 
 # Disassembly
 
+Disassembling the Amiga 500 is straightforward. First is to remove the six screws at the underside of the machine. But I notice that someone has been here before - there is a fine mix of torx and Phillips screw (three of each kind). Also, both the warranty seal on the rear (not visible in the picture below) and the seal seen in the picture are broken. In addition, the three machine screws holding the internal floppy drive are also missing.
 
+<p align="center">
+    <img src="Images/Dis01.jpeg" alt="Description" width="800">
+</p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
