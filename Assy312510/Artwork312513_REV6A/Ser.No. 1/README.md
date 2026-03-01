@@ -156,6 +156,35 @@ Notice that to remove the mainboard from the RF-shield all the 12 hex nut bolts 
 
 # Mainboard
 
+This mainboard is the Assy 312510/Artwork 312513 Rev 6A. Well known for the Fat Agnus (8372A) capable of addressing 1 MB of Chip RAM.
+
+## Visual inspection
+
+The mainboard appears to be in very fine condition. I can not see any signs of either damage or repair. There is of course the normal amount of dust laying around on the mainboard, but that is to be expected after so many years. On the backside of the mainboard there are some flux residue, also on some individual pins. But I can not see any obvious signs of rework. I can not see any smoking gun why the mainboard should be faulty.
+
+In the table below all the major custom IC found on the mainboard are listed. As can be seen from the table the custom MOS chips were produced during a time interval from week 51 in 1990 to week 24 in 1991. I think it is a fair guess that this Amiga 500 were manufactured sometime late summer or early autumn.
+
+<div align="center">
+  
+| Chip/Area | Manufactor | Version | Date code | Socket | Note |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+| CPU | MOTOROLA | MC68000P8 | W51 Y1990 | Yes |  |
+| KICKSTART | SHARP | 315093-02 | W04 Y1991 | Yes | Kickstart 1.3 |
+| DENISE | CSG | 8362R8 | W16 Y1991 | Yes | |
+| FAT AGNUS | CSG | 8372A 318069-02 | W17 Y1991 | Yes | 1MB / ECS |
+| PAULA | CSG | 8364R7 | W24 Y1991 | Yes | |
+| GARY | CSG | 5719 | W24 Y1991 | Yes | |
+| ODD CIA | CSG | 8520 A-1 | W24 Y1991 | Yes | |
+| EVEN CIA | CSG | 8520 A-1 | W24 Y1991 | Yes | |
+| RAM | PANASONIC | MN41C4256-08 | W24 Y1991 | Yes | U16, U17, U18, U19|
+| DATA PATH | NATIONAL SEMICONDUCTOR | MP9112<br>DM74LS373N | Unknown | No | U11, U13 |
+| DATA PATH | NATIONAL SEMICONDUCTOR | MP9052<br>DM74LS244N | Unknown | No | U10, U12 |
+
+</div>
+
+
+
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 <br>
 
