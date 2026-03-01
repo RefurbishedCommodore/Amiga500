@@ -30,6 +30,9 @@
         <li>
           <a href="#visual-inspection">Visual inspection</a>
         </li>
+        <li>
+          <a href="#repair">Repair</a>
+        </li>
       </ul>
     </li>
   </ul>
@@ -191,7 +194,21 @@ In the table below all the major custom IC found on the mainboard are listed. As
 
 ***What could cause this fault?***
 
+The green colour shown on the screen do indicate that the machine is actually partly working: the Kickstart ROM and the CPU are apparently running as they detect a "RAM" fault. From the forum at LemonAmiga there is a great list of error colours found in the topic named ["-- Amiga Error Colours, Blinks and Guru Codes --"](https://www.lemonamiga.com/forum/viewtopic.php?t=13978):
 
+> **Amiga Error Colours:**
+>
+> Green - There is an error in the Chip RAM or general Ram error
+
+But does this mean that there is a RAM fault? Well, not necessarily. Even if the Kickstart ROM think that this is a RAM fault a bad chip or socket could also create this fault. A previous repair also had a green screen showing - it turned out that the PLCC socket holding the `FAT AGNUS` was causing the fault. Take a look here if you are interested: [Amiga 500 - Ser.No. 1420026](https://refurbished-commodore.com/a500-s-no-1420026)
+
+***Reseating the socketed ICs***
+
+It is not uncommon that an Amiga can fail just because some minor oxidation / corrosion in the socket, og the IC itself, have occured during several years. As good practice removing, an reseating, all socket chips is done.
+
+It turns out that the ICs are really stuck in their sockets! I have to use plenty of contact cleaner on the pins, and great patience and care reseating these. For this process I reseat the ICs one-by-one and testing the machine for each reseated IC. After having reseated all ICs, except for the `FAT AGNUS` the machine still shows a green screen.
+
+The `FAT AGNUS` is removed very carefully using a special PLCC extrator [(see the TOOLS section for details).](https://refurbished-commodore.com/tools). And holy moly, the `FAT AGNUS´ chip is really hard to remove. I have to use plenty of contact cleaner, patience and care to lift it out of the socket. Luckily, it lifted from the socket with only one slightly bent pin which is easy to align again.
 
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
