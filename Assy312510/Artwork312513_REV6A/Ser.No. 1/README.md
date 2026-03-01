@@ -182,6 +182,10 @@ In the table below all the major custom IC found on the mainboard are listed. As
 
 </div>
 
+## Repair
+
+*What could cause this fault?*
+
 
 
 
