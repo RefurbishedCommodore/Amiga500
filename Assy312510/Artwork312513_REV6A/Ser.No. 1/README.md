@@ -219,9 +219,13 @@ The `FAT AGNUS` is removed very carefully using a special PLCC extrator [(see th
 
 <p align="center">
     <img src="Images/Main03.jpeg" alt="Description" width="600">
-      <img src="Images/Main04.jpeg" alt="Description" width="600">
-    <img src="Images/Main05.jpeg" alt="Description" width="600">
+</p>
 
+There are some signs of corrosion/oxidation on a few of the pins. But it is not too bad I think - I still think that the fault could be caused by a bad PLCC socket.
+
+<p align="center" float="left">
+    <img src="Images/Main04.jpeg" alt="Description" width="500">
+    <img src="Images/Main05.jpeg" alt="Description" width="500">
 </p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
