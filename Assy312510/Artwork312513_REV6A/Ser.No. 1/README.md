@@ -190,6 +190,13 @@ In the table below all the major custom IC found on the mainboard are listed. As
 
 </div>
 
+Below are some pictures of the mainboard before repair and refurbish.
+
+<p align="center">
+    <img src="Images/Main01.jpeg" alt="Description" width="1000">
+    <img src="Images/Main02.jpeg" alt="Description" width="1000">
+</p>
+
 ## Repair
 
 ***What could cause this fault?***
@@ -210,6 +217,9 @@ It turns out that the ICs are really stuck in their sockets! I have to use plent
 
 The `FAT AGNUS` is removed very carefully using a special PLCC extrator [(see the TOOLS section for details).](https://refurbished-commodore.com/tools). And holy moly, the `FAT AGNUS´ chip is really hard to remove. I have to use plenty of contact cleaner, patience and care to lift it out of the socket. Luckily, it lifted from the socket with only one slightly bent pin which is easy to align again.
 
+<p align="center">
+    <img src="Images/Main03.jpeg" alt="Description" width="600">
+</p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 <br>
