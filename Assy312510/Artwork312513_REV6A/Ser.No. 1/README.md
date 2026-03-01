@@ -26,6 +26,11 @@
     </li>
     <li>
       <a href="#mainboard">Mainboard</a>
+      <ul>
+        <li>
+          <a href="#visual-inspection">Visual inspection</a>
+        </li>
+      </ul>
     </li>
   </ul>
 </details>
@@ -184,7 +189,7 @@ In the table below all the major custom IC found on the mainboard are listed. As
 
 ## Repair
 
-*What could cause this fault?*
+***What could cause this fault?***
 
 
 
