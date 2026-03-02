@@ -201,7 +201,7 @@ Below are some pictures of the mainboard before repair and refurbish.
 
 ***What could cause this fault?***
 
-The green colour shown on the screen do indicate that the machine is actually partly working: the Kickstart ROM and the CPU are apparently running as they detect a "RAM" fault. From the forum at LemonAmiga there is a great list of error colours found in the topic named ["-- Amiga Error Colours, Blinks and Guru Codes --"](https://www.lemonamiga.com/forum/viewtopic.php?t=13978):
+The green colour shown on the screen do indicate that the machine is actually partly working: the Kickstart ROM and the CPU are apparently running as they detect a "RAM" fault. From the forum at LemonAmiga there is a great list of error colours found in the topic named [Amiga Error Colours, Blinks and Guru Codes](https://refurbished-commodore.com/amiga-error-codes):
 
 > **Amiga Error Colours:**
 >
