@@ -91,13 +91,7 @@ The results are shown in the table below:
 
 </div>
 
-A video from the inital in the YouTube link below:
-
-<div align="center">
-  
-[![Click to Watch](https://i9.ytimg.com/vi/vrPpR4bFNvo/mq2.jpg?sqp=CPzljM0G-oaymwEoCMACELQB8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBfKFQwDw==&rs=AOn4CLAjLdLJwG9Zi0Rqjymgv4U-2lGRfA)](https://youtube.com/shorts/vrPpR4bFNvo?feature=share)
-
-</div>
+A video from the inital test: https://youtube.com/shorts/vrPpR4bFNvo
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 <br>
