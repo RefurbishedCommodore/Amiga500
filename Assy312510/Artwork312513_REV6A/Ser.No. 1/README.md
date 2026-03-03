@@ -239,6 +239,19 @@ Before trying to lift the socket from the PCB make sure that **ALL** the pins ar
 
 A video showing how to check that the pins are free from solder: https://youtu.be/HKpMl6OLiYo
 
+A brand new 84 pin PLCC socket is soldered in (and all 84 pins are checked for any short circuit), and the `FAT AGNUS` chip is put back in.
+
+<p align="center" float="left">
+    <img src="Images/Main07.jpeg" alt="Description" width="500">
+    <img src="Images/Main08.jpeg" alt="Description" width="456">
+</p
+
+With the new PLCC socket installed the machine is powered on again. Will this fix the fault?
+
+> **Result of repair attemt:**
+>
+> FAIL: Still the green screen. No change.
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 <br>
 
