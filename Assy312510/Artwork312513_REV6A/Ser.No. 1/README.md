@@ -237,6 +237,8 @@ Before trying to lift the socket from the PCB make sure that **ALL** the pins ar
     <img src="Images/Main06.jpeg" alt="Description" width="600">
 </p>
 
+A video showing how to check that the pins are free from solder: https://youtu.be/HKpMl6OLiYo
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 <br>
 
