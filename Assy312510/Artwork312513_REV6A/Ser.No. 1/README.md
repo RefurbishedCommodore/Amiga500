@@ -228,6 +228,17 @@ There are some signs of corrosion/oxidation on a few of the pins. But it is not 
     <img src="Images/Main05.jpeg" alt="Description" width="500">
 </p>
 
+***Replacing the PLCC socket***
+
+There are 84 pins in the PLCC socket holding the `FAT AGNUS` chip so desoldering this is not trivial. Nevertheless, it is not complicated, but you need to be very careful to not rip or damage traces or pads. These are the steps I follow when desoldering the PLCC socket:
+
+* Add fresh solder to all the 84 pins
+* Pre-heating a large area of the PCB including and surrounding the PLCC pins with a hot air gun (with a very wide nozzle)
+* With a desoldering gun remove 21 pins one side
+* Repeat step 2-3 for the next 63 pins
+
+Before trying to lift the socket from the PCB make sure that **ALL** the pins are free from solder. With some careful wiggling the PLCC will come off with almost no force.
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 <br>
 
