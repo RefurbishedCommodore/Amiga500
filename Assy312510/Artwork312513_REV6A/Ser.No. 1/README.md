@@ -239,6 +239,10 @@ There are 84 pins in the PLCC socket holding the `FAT AGNUS` chip so desoldering
 
 Before trying to lift the socket from the PCB make sure that **ALL** the pins are free from solder. With some careful wiggling the PLCC will come off with almost no force.
 
+<p align="center">
+    <img src="Images/Main06.jpeg" alt="Description" width="600">
+</p>
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 <br>
 
