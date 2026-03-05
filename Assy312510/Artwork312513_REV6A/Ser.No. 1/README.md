@@ -231,13 +231,11 @@ There are 84 pins in the PLCC socket holding the `FAT AGNUS` chip so desoldering
 * With a desoldering gun remove 21 pins one side
 * Repeat step 2-3 for the next 63 pins
 
-Before trying to lift the socket from the PCB make sure that **ALL** the pins are free from solder. With some careful wiggling the PLCC will come off with almost no force.
+Before trying to lift the socket from the PCB make sure that **ALL** the pins are free from solder. With some careful wiggling the PLCC will come off with almost no force. [A video showing how to check that the pins are free from solder](https://youtu.be/HKpMl6OLiYo).
 
 <p align="center">
     <img src="Images/Main06.jpeg" alt="Description" width="600">
 </p>
-
-A video showing how to check that the pins are free from solder: https://youtu.be/HKpMl6OLiYo
 
 A brand new 84 pin PLCC socket is soldered in (and all 84 pins are checked for any short circuit), and the `FAT AGNUS` chip is put back in.
 
@@ -251,6 +249,19 @@ With the new PLCC socket installed the machine is powered on again. Will this fi
 > **Result of repair attemt:**
 >
 > FAIL: Still the green screen. No change.
+
+***Diagnostics with DiagROM***
+
+There is a great tool for diagnosing the Amiga: [DiagROM](https://www.diagrom.com/). This ROM replaces the Kickstart ROM and give useful information even if the machine is barely working.
+
+With the DiagROM installed the machine is powered on, and the result is a flickering red/green screen. [See video showing the result](https://youtube.com/shorts/zm5z15nACiE?feature=share).
+
+According to the [DiagROM github page](https://github.com/ChuckyGang/DiagROM/blob/master/DiagRom%20Codes.txt) this should mean the following:
+
+> ***Hardware problem***
+> 
+> Detected Chipmemerrors
+> Green/Red
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 <br>
