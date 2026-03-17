@@ -31,7 +31,7 @@
           <a href="#visual-inspection">Visual inspection</a>
         </li>
         <li>
-          <a href="#repair">Repair</a>
+          <a href="#troubleshooting-and-repair">Troubleshooting and repair</a>
         </li>
       </ul>
     </li>
@@ -191,7 +191,7 @@ Below are some pictures of the mainboard before repair and refurbish.
     <img src="Images/Main02.jpeg" alt="Description" width="1000">
 </p>
 
-## Repair
+## Troubleshooting and repair
 
 ***What could cause this fault?***
 
