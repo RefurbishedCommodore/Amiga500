@@ -267,9 +267,6 @@ According to the [DiagROM github page](https://github.com/ChuckyGang/DiagROM/blo
 > Detected Chipmem errors
 > Green/Red
 
-[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
-<br>
-
 The DiagROM also has another trick up its sleeve: it can provide useful information through the serial interface. By using a USB<->RS232 connector and a DB25<->DB9 null-modem cable a PC with a Putty terminal will show the following information (extract):
 
 ```
@@ -312,3 +309,5 @@ Addr $00000400
         Read: $F000F000  11110000000000001111000000000000  FAILED
 ```
 
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+<br>
