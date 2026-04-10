@@ -270,5 +270,45 @@ According to the [DiagROM github page](https://github.com/ChuckyGang/DiagROM/blo
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 <br>
 
-The DiagROM also has another trick up its sleeve: it can provide useful information through the serial interface. By using a USB<->RS232 connector and a DB25<->DB9 null-modem cable a PC with a Putty terminal will show the following information:
+The DiagROM also has another trick up its sleeve: it can provide useful information through the serial interface. By using a USB<->RS232 connector and a DB25<->DB9 null-modem cable a PC with a Putty terminal will show the following information (extract):
+
+```
+Amiga DiagROM V1.3 - 21-Apr-23  - By John (Chucky/The Gang) Hertell
+
+- Parallel Code $ff - Start of ROM, CPU Seems somewhat alive
+- Testing ROM Address-access
+   OK
+Testing if serial loopbackadapter is installed: <> NOT DETECTED
+    Checking status of mousebuttons at power-on:
+
+    Set all Interrupt enablebits (INTENA $dff09a) to Disabled: Done
+    Set all Interrupt requestbits (INTREQ $dff09c) to Disabled: Done
+    Set all DMA enablebits (DMACON $dff096) to Disabled: Done
+
+Testing if OVL is working: OK
+- Parallel Code $fe - Test UDS/LDS line
+  - Test of writing word $AAAA to $400 FAILED
+  - Test of writing word $00AA to $400 FAILED
+  - Test of writing word $AA00 to $400 FAILED
+  - Test of writing word $0000 to $400 FAILED
+  - Test of writing byte (even) $AA to $400 OK
+  - Test of writing byte (odd) $AA to $401 OK
+- Parallel Code $fd - Start of chipmemdetection
+
+Addr $00000400
+       Write: $AAAAAAAA  10101010101010101010101010101010
+        Read: $FAAAFAAA  11111010101010101111101010101010  FAILED
+
+       Write: $55555555  01010101010101010101010101010101
+        Read: $F555F555  11110101010101011111010101010101  FAILED
+
+       Write: $0F0F0F0F  00001111000011110000111100001111
+        Read: $FF0FFF0F  11111111000011111111111100001111  FAILED
+
+       Write: $0F0FF0F0  00001111000011111111000011110000
+        Read: $FF0FF0F0  11111111000011111111000011110000  FAILED
+
+       Write: $00000000  00000000000000000000000000000000
+        Read: $F000F000  11110000000000001111000000000000  FAILED
+```
 
