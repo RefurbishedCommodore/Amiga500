@@ -311,5 +311,9 @@ Addr $00000400
 
 From the DiagROM output we can see that whatever is written to the databits D31-D28 and D15-D12 they are always read back as "1". It looks like one of the RAM ICs are faulty and all databits, no matter which address, are stuck to "1". From the schematics for the Amiga 500 Rev 6A board we can see that these databits are stored in the RAM IC in place U19. So, I think its quite likely that this is a bad RAM IC at U19.
 
+<p align="center">
+    <img src="Images/Main09.png" alt="Description" width="1000">
+</p>
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 <br>
