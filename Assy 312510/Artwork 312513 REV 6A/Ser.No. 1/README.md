@@ -315,5 +315,12 @@ From the DiagROM output we can see that whatever is written to the databits D31-
     <img src="Images/Main09.png" alt="Description" width="1000">
 </p>
 
+***Replacing the U19 RAM IC***
+
+The RAM IC[^1] located at U19 is desoldered and removed. No traces or pads were lifted during the desoldering process[^2]. Below is a picture of the area after desoldering.
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 <br>
+
+[^1]: Panasonic MN41C4256-08
+[^2]: Desoldering on the Amiga PCB can be a challenge. The reason is the boards often have large GND or VDC planes taking a lot of heat away from the soldered points. A combination of using a soldering iron on the top side of the IC and a desoldering gun on the flip side is recommended. Use hot air on all pins before finally removing the IC. 
