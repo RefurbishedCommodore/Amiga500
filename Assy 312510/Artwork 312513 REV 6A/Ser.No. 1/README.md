@@ -250,7 +250,7 @@ A brand new 84 pin PLCC socket is soldered in (and all 84 pins are checked for a
 
 With the new PLCC socket installed the machine is powered on again. Will this fix the fault?
 
-> **Result of repair attemt:**
+> **Result of repair attempt:**
 >
 > FAIL: Still the green screen. No change.
 
@@ -332,7 +332,7 @@ A new socket is installed. Well, it is actually two sockets since I am out of 20
 
 With a new RAM IC installed the machine is powered on again. Will this fix the fault?
 
-> **Result of repair attemt:**
+> **Result of repair attempt:**
 >
 > SUCCESS: The machine now boot to the DiagROM V1.3 Diagnostics menu
 
