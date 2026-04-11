@@ -182,7 +182,7 @@ In the table below all the major custom IC found on the mainboard are listed. As
 | GARY | CSG | 5719 | W24 Y1991 | Yes | |
 | ODD CIA | CSG | 8520 A-1 | W24 Y1991 | Yes | |
 | EVEN CIA | CSG | 8520 A-1 | W24 Y1991 | Yes | |
-| RAM | PANASONIC | MN41C4256-08 | W24 Y1991 | Yes | U16, U17, U18, U19|
+| RAM | PANASONIC | MN41C4256-08 | W24 Y1991 | No | U16, U17, U18, U19 <br> U19 replaced with OKI M514256B-70R during repair|
 | DATA PATH | NATIONAL SEMICONDUCTOR | MP9112<br>DM74LS373N | Unknown | No | U11, U13 |
 | DATA PATH | NATIONAL SEMICONDUCTOR | MP9052<br>DM74LS244N | Unknown | No | U10, U12 |
 
@@ -323,7 +323,12 @@ The RAM IC[^1] located at U19 is desoldered and removed. No traces or pads were 
     <img src="Images/Main10.JPG" alt="Description" width="800">
 </p>
 
-A new socket is installed. Well, it is actually two sockets since I am out of 20 pin sockets, but that works just fine.
+A new socket is installed. Well, it is actually two sockets since I am out of 20 pin sockets, but that works just fine. And a new OKI M514256B-70R RAM IC is installed.
+
+<p align="center" float="left">
+    <img src="Images/Main11.jpeg" alt="Description" width="456">
+    <img src="Images/Main12.jpeg" alt="Description" width="455">
+</p
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 <br>
