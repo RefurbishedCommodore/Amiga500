@@ -319,6 +319,12 @@ From the DiagROM output we can see that whatever is written to the databits D31-
 
 The RAM IC[^1] located at U19 is desoldered and removed. No traces or pads were lifted during the desoldering process[^2]. Below is a picture of the area after desoldering.
 
+<p align="center">
+    <img src="Images/Main10.JPG" alt="Description" width="800">
+</p>
+
+A new socket is installed. Well, it is actually two sockets since I am out of 20 pin sockets, but that works just fine.
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 <br>
 
