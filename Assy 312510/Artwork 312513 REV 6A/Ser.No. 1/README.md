@@ -330,6 +330,12 @@ A new socket is installed. Well, it is actually two sockets since I am out of 20
     <img src="Images/Main12.jpeg" alt="Description" width="455">
 </p
 
+With a new RAM IC installed the machine is powered on again. Will this fix the fault?
+
+> **Result of repair attemt:**
+>
+> SUCCESS: The machine now boot to the DiagROM 1.3 Diagnostics menu
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 <br>
 
