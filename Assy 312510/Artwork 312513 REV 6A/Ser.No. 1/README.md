@@ -334,7 +334,7 @@ With a new RAM IC installed the machine is powered on again. Will this fix the f
 
 > **Result of repair attemt:**
 >
-> SUCCESS: The machine now boot to the DiagROM 1.3 Diagnostics menu
+> SUCCESS: The machine now boot to the DiagROM V1.3 Diagnostics menu
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 <br>
