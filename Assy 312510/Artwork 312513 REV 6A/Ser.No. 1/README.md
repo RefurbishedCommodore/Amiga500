@@ -204,10 +204,12 @@ It is good practice to measure the voltages - to verify that all voltages are pr
 
 As the table below show all voltages are present and ok. Note that this table will be updated after completing the refurbish.
 
-| Name | Voltage | Measured voltage<br>(Before refurbish) | Measured voltage<br>(After refurbish) | Note | Note |
-|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| CPU | MOTOROLA | MC68000P8 | W51 Y1990 | Yes |  |
-
+| Measure point | Target voltage | Measured voltage<br>(Before refurbish) | Measured voltage<br>(After refurbish) | Note |
+|:----------:|:----------:|:----------:|:----------:|:----------:|
+| PSU (5V) / VCC | +5 V DC | 5.169 V |  | C815 |
+| PSU (5V) / VCC | +5 V DC | 11.97 V |  | C821 |
+| PSU (5V) / VCC | +5 V DC | 11.83 V |  | C822 |
+| PSU (5V) / VCC | +5 V DC | 5.172 V |  | Pin #14 U33 |
 
 ## Troubleshooting and repair
 
