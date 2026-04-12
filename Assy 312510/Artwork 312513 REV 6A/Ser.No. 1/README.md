@@ -35,6 +35,9 @@
           <a href="#visual-inspection">Visual inspection</a>
         </li>
         <li>
+          <a href="#checking-the-voltages">Checking the voltages</a>
+        </li>
+        <li>
           <a href="#troubleshooting-and-repair">Troubleshooting and repair</a>
         </li>
       </ul>
@@ -194,6 +197,17 @@ Below are some pictures of the mainboard before repair and refurbish.
     <img src="Images/Main01.jpeg" alt="Description" width="1000">
     <img src="Images/Main02.jpeg" alt="Description" width="1000">
 </p>
+
+## Checking the voltages
+
+It is good practice to measure the voltages - to verify that all voltages are present and within tolerances. Voltages which are not within acceptable tolerances are often a symptom of faults (just like a doctor would check temperature and blood samples).
+
+As the table below show all voltages are present and ok. Note that this table will be updated after completing the refurbish.
+
+| Name | Voltage | Measured voltage<br>(Before refurbish) | Measured voltage<br>(After refurbish) | Note | Note |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+| CPU | MOTOROLA | MC68000P8 | W51 Y1990 | Yes |  |
+
 
 ## Troubleshooting and repair
 
