@@ -356,6 +356,13 @@ With a new RAM IC installed the machine is powered on again. Will this fix the f
 >
 > SUCCESS: The machine now boot to the DiagROM V1.3 Diagnostics menu
 
+The original Kickstart 1.3 ROM is installed again, and when the machine is powered on again a familiar image appear on the screen. This does not imply that the machine is fully working, but now it will at least boot to Kickstart.
+
+<p align="center">
+    <img src="Images/Main13.jpeg" alt="Description" width="600">
+</p>
+
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 <br>
 
