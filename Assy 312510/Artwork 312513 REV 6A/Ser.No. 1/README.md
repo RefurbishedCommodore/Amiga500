@@ -2,6 +2,8 @@
     <img src="https://github.com/RefurbishedCommodore/RefurbishedCommodore/blob/main/Images/LogoNew.png" alt="Description" width="400">
 </p>
 
+# Amiga 500
+
 ![Name](https://img.shields.io/badge/Serial_No.-1-white?style=plastic)
 <br>
 ![Name](https://img.shields.io/badge/Assy-312510-white?style=plastic)
