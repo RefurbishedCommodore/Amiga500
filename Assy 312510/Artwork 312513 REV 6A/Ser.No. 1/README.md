@@ -11,6 +11,8 @@
 ![Name](https://img.shields.io/badge/Revision-6A-white?style=plastic)
 ![Name](https://img.shields.io/badge/Video_format-PAL-white?style=plastic)
 
+<!--- MARK START --->
+
 
 # Table of contents
 
@@ -368,8 +370,14 @@ The original Kickstart 1.3 ROM is installed again, and when the machine is power
 
 # Keyboard
 
+The keyboard appears to be in good condition. Yes, it is really dirty - the keypcaps are full of nasty "goo". But the keyboards feels nice to the touch, and appears to be undamaged. There is not much yellowing either. Below is a picture of the keyboard before refurbishment.
+
+<p align="center">
+    <img src="Images/Keyb01.jpeg" alt="Description" width="600">
+</p>
 
 
+<!--- MARK STOP--->
 **Footnotes**
 [^1]: Panasonic MN41C4256-08
 [^2]: Desoldering on the Amiga PCB can be a challenge. The reason is the boards often have large GND or VDC planes taking a lot of heat away from the soldered points. A combination of using a soldering iron on the top side of the IC and a desoldering gun on the flip side is recommended. Use hot air on all pins before finally removing the IC. 
