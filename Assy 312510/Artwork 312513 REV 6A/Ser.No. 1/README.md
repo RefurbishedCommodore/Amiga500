@@ -77,8 +77,8 @@ There is something special interesting about this machine also: it´s serial num
 The planned refurbishment activites for this Amiga 500 (Order may vary. Several of them in parallell):
 
 - [ ] Refurbish the casing
-- [ ] Refurbish the keyboard
 - [ ] Refurbish mainboard
+- [ ] Refurbish the keyboard
 - [ ] Testing and validation
 
 The plan can be updated during the refurbishment process. Sometimes I discover areas that needs special attention.
@@ -364,9 +364,12 @@ The original Kickstart 1.3 ROM is installed again, and when the machine is power
     <img src="Images/Main13.jpeg" alt="Description" width="600">
 </p>
 
-
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
-<br>
 
+# Keyboard
+
+
+
+**Footnotes**
 [^1]: Panasonic MN41C4256-08
 [^2]: Desoldering on the Amiga PCB can be a challenge. The reason is the boards often have large GND or VDC planes taking a lot of heat away from the soldered points. A combination of using a soldering iron on the top side of the IC and a desoldering gun on the flip side is recommended. Use hot air on all pins before finally removing the IC. 
