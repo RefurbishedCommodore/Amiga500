@@ -370,7 +370,7 @@ The original Kickstart 1.3 ROM is installed again, and when the machine is power
 
 # Keyboard
 
-The keyboard appears to be in good condition. Yes, it is really dirty - the keypcaps are full of nasty "goo". But the keyboards feels nice to the touch, and appears to be undamaged. There is not much yellowing either. Below is a picture of the keyboard before refurbishment.
+The keyboard is a Mitsumi 312502-99. It appears to be in good condition. Yes, it is really dirty - the keypcaps are full of nasty "goo". But the keyboards feels nice to the touch, and appears to be undamaged. There is not much yellowing either. Below is a picture of the keyboard before refurbishment.
 
 <p align="center">
     <img src="Images/Keyb01.jpeg" alt="Description" width="1000">
