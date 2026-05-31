@@ -456,6 +456,13 @@ With the metal shield our of the way the keyboard membrane is exposed in all its
     <img src="Images/Keyb12.jpeg" alt="Description" width="1000">
 </p>
 
+The keyboard membrane is simply lifted off the plastic holder. And all the plungers fall to the desk when the keyboard is flipped. **NOTE:** The plunger for the **CAPS-LOCK** is different from the other plungers. Also, the **CAPS LOCK** has a small LED following. See pictures below.
+
+<p align="center">
+    <img src="Images/Keyb13.jpeg" alt="Description" width="600">
+</p>
+
+
 <!--- MARK STOP--->
 **Footnotes**
 [^1]: Panasonic MN41C4256-08
