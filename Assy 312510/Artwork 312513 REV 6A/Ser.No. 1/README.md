@@ -413,6 +413,10 @@ The following five keycaps all have a metal "U" shaped bracket of differenct siz
 
 The last keycap to note is the **SPACEBAR**. In addition to have the "U" shaped metal bracket, and plungers, it also have two smaller supporting springs (making a total of three springs).
 
+<p align="center">
+    <img src="Images/Keyb04.jpeg" alt="Description" width="800">
+</p>
+
 <!--- MARK STOP--->
 **Footnotes**
 [^1]: Panasonic MN41C4256-08
