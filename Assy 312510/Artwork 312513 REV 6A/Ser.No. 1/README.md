@@ -427,7 +427,11 @@ The last keycap to note is the **SPACEBAR**. In addition to have the "U" shaped 
     <img src="Images/Keyb06.jpeg" alt="Description" width="600">
 </p>
 
+The PCB is easily removed by unscrewing the four screws[^3][^4], and cutting the small cable tie (used as strain relief). **NOTE:** The screw[^4] in the upper left corner is placed *beneath* the plastic insulation plate, and this screw is differrent than the other three. 
+
 <!--- MARK STOP--->
 **Footnotes**
 [^1]: Panasonic MN41C4256-08
 [^2]: Desoldering on the Amiga PCB can be a challenge. The reason is the boards often have large GND or VDC planes taking a lot of heat away from the soldered points. A combination of using a soldering iron on the top side of the IC and a desoldering gun on the flip side is recommended. Use hot air on all pins before finally removing the IC. 
+[^3]: Phillips pan head (3.3 mm), Sheet metal screw, Fully threaded, Thread diameter: 2.0 mm, Fastener length: 5.5 mm
+[^4]: Phillips pan head (3.3 mm) + spacer, Machine screw, Fully threaded, Thread diameter: 2.0 mm, Fastener length: 4.0 mm
