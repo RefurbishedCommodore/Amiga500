@@ -420,7 +420,7 @@ The last keycap to note is the **SPACEBAR**. In addition to have the "U" shaped 
 A close-up picture showing the "U" shaped metal bracket, the key plunger and the plastic plugs is shown below. Ignore the dust and grease - this will be cleaned during refurbishment.
 
 <p align="center">
-    <img src="Images/Keyb04.jpeg" alt="Description" width="600">
+    <img src="Images/Keyb05.jpeg" alt="Description" width="600">
 </p>
 
 <!--- MARK STOP--->
