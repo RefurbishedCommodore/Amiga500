@@ -46,6 +46,14 @@
         </li>
       </ul>
     </li>
+    <li>
+      <a href="#keyboard">Keyboard</a>
+      <ul>
+        <li>
+          <a href="#initial-testing">Initial testing</a>
+        </li>
+      </ul>
+    </li>
   </ul>
 </details>
 
@@ -379,6 +387,12 @@ The keyboard is a Mitsumi 312502-99. It appears to be in good condition. Yes, it
 <p align="center">
     <img src="Images/Keyb02.jpeg" alt="Description" width="1000">
 </p>
+
+## Initial testing
+
+Before the keyboard is disassembled it is tested using the [Amiga Test Kit](https://refurbished-commodore.com/tools) software. As can be seen from the picture below all keys are working fine. I can not detect anything mechanically, or electronically, wrong with the keyboard.
+
+
 
 <!--- MARK STOP--->
 **Footnotes**
