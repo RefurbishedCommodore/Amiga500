@@ -444,9 +444,16 @@ Next step is to disconnect the keyboard membrane from the PCB. The keyboard memb
     <img src="Images/Keyb09.jpeg" alt="Description" width="500">
 </p
 
+The metal shield is removed by unscrewing the 27 small screws[^5] with a low torque screwdriver. 
+
+<p align="center">
+    <img src="Images/Keyb11.jpeg" alt="Description" width="1000">
+</p>
+
 <!--- MARK STOP--->
 **Footnotes**
 [^1]: Panasonic MN41C4256-08
 [^2]: Desoldering on the Amiga PCB can be a challenge. The reason is the boards often have large GND or VDC planes taking a lot of heat away from the soldered points. A combination of using a soldering iron on the top side of the IC and a desoldering gun on the flip side is recommended. Use hot air on all pins before finally removing the IC. 
 [^3]: Phillips pan head (3.3 mm), Sheet metal screw, Fully threaded, Thread diameter: 2.0 mm, Fastener length: 5.5 mm
 [^4]: Phillips pan head (3.3 mm) + spacer, Machine screw, Fully threaded, Thread diameter: 2.0 mm, Fastener length: 4.0 mm
+[^5]: Phillips pan head (3.2 mm), Sheet metal screw, Fully threaded, Thread diameter: 2.0 mm, Fastener length: 5.0 mm
