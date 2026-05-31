@@ -450,6 +450,12 @@ The metal shield is removed by unscrewing the 27 small screws[^5] with a low tor
     <img src="Images/Keyb11.jpeg" alt="Description" width="1000">
 </p>
 
+With the metal shield our of the way the keyboard membrane is exposed in all its glory.
+
+<p align="center">
+    <img src="Images/Keyb12.jpeg" alt="Description" width="1000">
+</p>
+
 <!--- MARK STOP--->
 **Footnotes**
 [^1]: Panasonic MN41C4256-08
