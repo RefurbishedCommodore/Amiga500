@@ -435,7 +435,14 @@ The PCB is easily removed by first unscrewing the four screws[^3][^4], and cutti
 
 Next step is to disconnect the keyboard membrane from the PCB. The keyboard membrane connector can be brittle so care must be taken to avoid damaging it. To disconnect the keyboard membrane from the PCB, both sides of the connector is pushed downwards. This will make the keyboard membrane loose from the connector. The PCB is then carefully removed from the keyboard membrane connector.
 
+<p align="center">
+    <img src="Images/Keyb10.jpeg" alt="Description" width="1000">
+</p>
 
+<p align="center" float="left">
+    <img src="Images/Keyb08.jpeg" alt="Description" width="500">
+    <img src="Images/Keyb09.jpeg" alt="Description" width="500">
+</p
 
 <!--- MARK STOP--->
 **Footnotes**
