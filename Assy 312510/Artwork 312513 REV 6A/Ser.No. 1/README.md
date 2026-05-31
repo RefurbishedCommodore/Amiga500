@@ -427,11 +427,15 @@ The last keycap to note is the **SPACEBAR**. In addition to have the "U" shaped 
     <img src="Images/Keyb06.jpeg" alt="Description" width="600">
 </p>
 
-The PCB is easily removed by unscrewing the four screws[^3][^4], and cutting the small cable tie (used as strain relief). **NOTE:** The screw[^4] in the upper left corner is placed *beneath* the plastic insulation plate, and this screw is differrent than the other three. 
+The PCB is easily removed by first unscrewing the four screws[^3][^4], and cutting the small cable tie (used as strain relief). **NOTE:** The screw[^4] in the upper left corner is placed *beneath* the plastic insulation plate, and this screw is differrent than the other three. 
 
 <p align="center">
     <img src="Images/Keyb07.jpeg" alt="Description" width="800">
 </p>
+
+Next step is to disconnect the keyboard membrane from the PCB. The keyboard membrane connector can be brittle so care must be taken to avoid damaging it. To disconnect the keyboard membrane from the PCB, both sides of the connector is pushed downwards. This will make the keyboard membrane loose from the connector. The PCB is then carefully removed from the keyboard membrane connector.
+
+
 
 <!--- MARK STOP--->
 **Footnotes**
