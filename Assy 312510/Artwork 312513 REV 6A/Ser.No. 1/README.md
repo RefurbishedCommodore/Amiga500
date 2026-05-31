@@ -403,7 +403,7 @@ Before the keyboard is disassembled it is tested using the [Amiga Test Kit](http
 
 All the 96 keycaps are carefully removed with a [keycap puller](https://refurbished-commodore.com/tools). Amongst these, there are six keycaps which requires special attention when removed.
 
-The following five keycaps all have a metal "U" shaped bracket of differenct sizes stabilising the keycap, and small plastic plungers fastening the metal brackers to the keycap:
+The following five keycaps all have a metal "U" shaped bracket of differenct sizes stabilising the keycap, and small plastic plugs fastening the metal brackers to the keycap:
 
 - **ENTER** key on the numpad
 - **0** key on the numpad
@@ -416,6 +416,9 @@ The last keycap to note is the **SPACEBAR**. In addition to have the "U" shaped 
 <p align="center">
     <img src="Images/Keyb04.jpeg" alt="Description" width="800">
 </p>
+
+A close-up picture showing the "U" shaped metal bracket, the key plunger and the plastic plugs is shown below. Ignore the dust and grease - this will be cleaned during refurbishment.
+
 
 <!--- MARK STOP--->
 **Footnotes**
