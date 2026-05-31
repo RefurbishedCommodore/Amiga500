@@ -392,7 +392,9 @@ The keyboard is a Mitsumi 312502-99. It appears to be in good condition. Yes, it
 
 Before the keyboard is disassembled it is tested using the [Amiga Test Kit](https://refurbished-commodore.com/tools) software. As can be seen from the picture below all keys are working fine. I can not detect anything mechanically, or electronically, wrong with the keyboard.
 
-
+<p align="center">
+    <img src="Images/Keyb03.jpeg" alt="Description" width="500">
+</p>
 
 <!--- MARK STOP--->
 **Footnotes**
