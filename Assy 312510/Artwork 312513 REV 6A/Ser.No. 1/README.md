@@ -52,6 +52,9 @@
         <li>
           <a href="#initial-testing">Initial testing</a>
         </li>
+        <li>
+          <a href="#disassembly">Disassembly</a>
+        </li>
       </ul>
     </li>
   </ul>
@@ -395,6 +398,20 @@ Before the keyboard is disassembled it is tested using the [Amiga Test Kit](http
 <p align="center">
     <img src="Images/Keyb03.jpeg" alt="Description" width="500">
 </p>
+
+## Disassembly
+
+All the 96 keycaps are carefully removed with a [keycap puller](https://refurbished-commodore.com/tools). Amongst these, there are six keycaps which requires special attention when removed.
+
+The following five keycaps all have a metal "U" shaped bracket of differenct sizes stabilising the keycap, and small plastic plungers fastening the metal brackers to the keycap:
+
+- **ENTER** key on the numpad
+- **0** key on the numpad
+- **ENTER** key on the main keyboard
+- Left **SHIFT**
+- **TAB** key
+
+The last keycap to note is the **SPACEBAR**. In addition to have the "U" shaped metal bracket, and plungers, it also have two smaller supporting springs (making a total of three springs).
 
 <!--- MARK STOP--->
 **Footnotes**
