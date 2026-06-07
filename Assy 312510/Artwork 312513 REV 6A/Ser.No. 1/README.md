@@ -487,7 +487,11 @@ The thin, fragile, membrane is also cleaned. But not with soap or isopropanol. I
 
 As can be seen from the picture below there are some dirt and grease on the membrane. This dirt can easily deteriorate, and damage, the thin traces on the membrane leaving several of the keys not working.
 
+<p align="center">
+    <img src="Images/Keyb16.jpeg" alt="Description" width="600">
+</p>
 
+After cleaning the whole membrane with distilled water it looks good as new.
 
 ## Reassembly
 
