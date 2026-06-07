@@ -475,7 +475,13 @@ The following items are cleaned using mild soapy water:
 
 Below are pictures of the cleaned keycaps and the plastic holder. Looks way better! Note that the keycaps are not at all very yellowed. So, for now I have not any plans for retrobrighting these.
 
+<p align="center">
+    <img src="Images/Keyb14.jpeg" alt="Description" width="600">
+</p>
 
+<p align="center">
+    <img src="Images/Keyb15.jpeg" alt="Description" width="1000">
+</p>
 
 <!--- MARK STOP--->
 **Footnotes**
