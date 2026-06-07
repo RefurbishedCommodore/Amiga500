@@ -55,6 +55,9 @@
         <li>
           <a href="#disassembly">Disassembly</a>
         </li>
+        <li>
+          <a href="#cleaning">Cleaning</a>
+        </li>
       </ul>
     </li>
   </ul>
@@ -461,6 +464,11 @@ The keyboard membrane is simply lifted off the plastic holder. And all the plung
 <p align="center">
     <img src="Images/Keyb13.jpeg" alt="Description" width="600">
 </p>
+
+## Cleaning
+
+The following items are cleaned using mild soapy water:
+
 
 
 <!--- MARK STOP--->
