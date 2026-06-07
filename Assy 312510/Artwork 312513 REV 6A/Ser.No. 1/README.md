@@ -485,6 +485,8 @@ Below are pictures of the cleaned keycaps and the plastic holder. Looks way bett
 
 The thin, fragile, membrane is also cleaned. But not with soap or isopropanol. Instead, distilled water and PCB wipes are used. This is the purest liquid, and softest wipes, that will not damage the fragile membrane.
 
+**NOTE:** This is a Mitsumi A-500(E) 56 A619**B** keyboard membrane.
+
 As can be seen from the picture below there are some dirt and grease on the membrane. This dirt can easily deteriorate, and damage, the thin traces on the membrane leaving several of the keys not working.
 
 <p align="center">
