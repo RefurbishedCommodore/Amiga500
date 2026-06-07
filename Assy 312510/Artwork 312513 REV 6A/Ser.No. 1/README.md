@@ -469,6 +469,12 @@ The keyboard membrane is simply lifted off the plastic holder. And all the plung
 
 The following items are cleaned using mild soapy water:
 
+- All keycaps
+- The plastic holder for the keycaps
+- The metal backside shield
+
+Below are pictures of the cleaned keycaps and the plastic holder. Looks way better! Note that the keycaps are not at all very yellowed. So, for now I have not any plans for retrobrighting these.
+
 
 
 <!--- MARK STOP--->
