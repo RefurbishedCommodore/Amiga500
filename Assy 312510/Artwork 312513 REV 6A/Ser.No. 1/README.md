@@ -483,6 +483,12 @@ Below are pictures of the cleaned keycaps and the plastic holder. Looks way bett
     <img src="Images/Keyb15.jpeg" alt="Description" width="1000">
 </p>
 
+The thin, fragile, membrane is also cleaned. But not with soap or isopropanol. Instead, distilled water and PCB wipes are used. This is the purest liquid, and softest wipes, that will not damage the fragile membrane.
+
+As can be seen from the pictures below there are some dirt and grease on the membrane. This dirt can easily deteriorate, and damage, the thin traces on the membrane leaving several of the keys not working.
+
+
+
 ## Reassembly
 
 
