@@ -495,6 +495,10 @@ As can be seen from the picture below there are some dirt and grease on the memb
 
 After cleaning the whole membrane with distilled water it looks good as new.
 
+<p align="center">
+    <img src="Images/Keyb17.jpeg" alt="Description" width="1000">
+</p>
+
 ## Reassembly
 
 
