@@ -483,6 +483,10 @@ Below are pictures of the cleaned keycaps and the plastic holder. Looks way bett
     <img src="Images/Keyb15.jpeg" alt="Description" width="1000">
 </p>
 
+## Reassembly
+
+
+
 <!--- MARK STOP--->
 **Footnotes**
 [^1]: Panasonic MN41C4256-08
