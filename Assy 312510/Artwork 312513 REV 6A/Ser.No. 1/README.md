@@ -58,6 +58,9 @@
         <li>
           <a href="#cleaning">Cleaning</a>
         </li>
+        <li>
+          <a href="#reassembly">Reassembly</a>
+        </li>
       </ul>
     </li>
   </ul>
