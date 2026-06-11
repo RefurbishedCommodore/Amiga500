@@ -504,6 +504,11 @@ After cleaning the whole membrane with distilled water it looks good as new.
 
 ## Reassembly
 
+After cleaning the keyboard is re-assembled.
+
+<p align="center">
+    <img src="Images/Keyb18.jpeg" alt="Description" width="1000">
+</p>
 
 
 <!--- MARK STOP--->
