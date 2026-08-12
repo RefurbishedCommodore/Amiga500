@@ -63,6 +63,14 @@
         </li>
       </ul>
     </li>
+    <li>
+      <a href="#casing">Casing</a>
+      <ul>
+        <li>
+          <a href="#cleaning-the-covers">Cleaning the covers</a>
+        </li>     
+      </ul>
+    </li>
   </ul>
 </details>
 
@@ -510,6 +518,13 @@ After cleaning the keyboard is re-assembled.
     <img src="Images/Keyb18.jpeg" alt="Description" width="1000">
 </p>
 
+# Casing
+
+The covers seems to be in good condition. As mentioned previously there is a substantial amount of dirt and grease, but otherwise it seems in fine condition. Also, the yellowing is minimal which means that the retrobrighting is not required.
+
+## Cleaning the covers
+
+Both top and bottom cover are placed in mild soapy water for about 48 hours. This will dissolve most of the dust and grease. 
 
 <!--- MARK STOP--->
 **Footnotes**
