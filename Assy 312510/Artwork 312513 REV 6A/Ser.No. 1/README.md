@@ -71,8 +71,14 @@
         </li>     
       </ul>
     </li>
+    <li>
+      <a href="#final-result">Final result</a>
+    </li>
   </ul>
 </details>
+
+
+
 
 
 # Starting point
@@ -525,6 +531,38 @@ The covers seems to be in good condition. As mentioned previously there is a sub
 ## Cleaning the covers
 
 Both top and bottom cover are placed in mild soapy water for about 48 hours. This will dissolve most of the dust and grease. 
+
+
+
+
+# Final result
+
+<div align="center">
+
+*"A picture is worth a thousand words"*
+
+Below is a collection of pictures of the final result of the refurbishment of this C64. Hope you like it! Click to enlarge!
+
+</div>
+
+<p align="center">
+    <img src="Images/Final_01.jpeg" alt="Description" width="800">
+</p>
+
+<p align="center" float="left">
+    <img src="Images/Final_02.jpeg" alt="Description" width="400">
+    <img src="Images/Final_03.jpeg" alt="Description" width="400">
+</p>
+
+<p align="center" float="left">
+    <img src="Images/Final_04.jpeg" alt="Description" width="400">
+    <img src="Images/Final_05.jpeg" alt="Description" width="400">
+</p>
+
+<p align="center">
+    <img src="Images/Final_06.jpeg" alt="Description" width="800">
+</p>
+
 
 <!--- MARK STOP--->
 **Footnotes**
