@@ -77,10 +77,6 @@
   </ul>
 </details>
 
-
-
-
-
 # Starting point
 
 This Amiga 500 looks quite nice I think. It appears to be complete, and intact, from a mechanical point of view. It has obviously been opened previously as both warranty seals (on the underside and the rear) are broken. It is quite dirty - there is a significant amount of dirt and dust in the keyboard and the air grooves. There does not appear to be much corrosion on the metal shield and connectors on the rear.
@@ -109,13 +105,15 @@ There is something special interesting about this machine also: it´s serial num
 
 The planned refurbishment activites for this Amiga 500 (Order may vary. Several of them in parallell):
 
-- [ ] Refurbish the casing
-- [ ] Refurbish mainboard
+- [x] Refurbish the casing
+- [x] Refurbish mainboard
 - [x] Refurbish the keyboard
 - [ ] Testing and validation
 
 The plan can be updated during the refurbishment process. Sometimes I discover areas that needs special attention.
 <br>
+
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 # Initial testing
 
@@ -524,16 +522,25 @@ After cleaning the keyboard is re-assembled.
     <img src="Images/Keyb18.jpeg" alt="Description" width="1000">
 </p>
 
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
 # Casing
 
 The covers seems to be in good condition. As mentioned previously there is a substantial amount of dirt and grease, but otherwise it seems in fine condition. Also, the yellowing is minimal which means that the retrobrighting is not required.
 
 ## Cleaning the covers
 
-Both top and bottom cover are placed in mild soapy water for about 48 hours. This will dissolve most of the dust and grease. 
+Both top and bottom cover are placed in mild soapy water for about 48 hours. This will dissolve most of the dust and grease. After the long bath most of the grime is gone, but the last remaining spots are cleaned with isopropanol. Below are some pictures of the covers after cleaning.
 
+<p align="center">
+    <img src="Images/Case_01.jpeg" alt="Description" width="1000">
+</p>
 
+<p align="center">
+    <img src="Images/Case_02.jpeg" alt="Description" width="1000">
+</p>
 
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 # Final result
 
@@ -562,6 +569,8 @@ Below is a collection of pictures of the final result of the refurbishment of th
 <p align="center">
     <img src="Images/Final_06.jpeg" alt="Description" width="800">
 </p>
+
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 
 <!--- MARK STOP--->
