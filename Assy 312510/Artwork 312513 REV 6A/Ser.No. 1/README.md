@@ -549,11 +549,13 @@ Both top and bottom cover are placed in mild soapy water for about 48 hours. Thi
 
 Now it is time for testing the whole machine. All parts such as keyboard and disk drive have been tested in isolation, but now I will try to test "everything". How? Well, I basically to this in two stages:
 
-Formal testing with the Amiga Test Kit 1.20 (ATK). This will test most of the basic parts such as memory, floppy drive, video, audio, CIA, mouse, joystick and keyboard.
+Formal testing with the Amiga Test Kit 1.21 (ATK). This will test most of the basic parts such as memory, floppy drive, video, audio, CIA, mouse, joystick and keyboard.
 
-"Real usage" testing. I will basically use the machine playing games, watching and listening to demos and use the machine in regulator operation. This will detect flaws not easily detected with the ATK 1.20.
+"Real usage" testing. I will basically use the machine playing games, watching and listening to demos and use the machine in regulator operation. This will detect flaws not easily detected with the ATK 1.21.
 
 Below is a gallery from the final testing.
+
+
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
