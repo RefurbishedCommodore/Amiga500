@@ -555,7 +555,28 @@ Formal testing with the Amiga Test Kit 1.21 (ATK). This will test most of the ba
 
 Below is a gallery from the final testing.
 
+<p align="center" float="left">
+    <img src="Images/Test_02.jpeg" alt="Description" width="200">
+    <img src="Images/Test_01.jpeg" alt="Description" width="200">
+    <img src="Images/Test_03.jpeg" alt="Description" width="200">
+    <img src="Images/Test_04.jpeg" alt="Description" width="200">
+    <img src="Images/Test_05.jpeg" alt="Description" width="200">
+    <img src="Images/Test_06.jpeg" alt="Description" width="200">
+    <img src="Images/Test_07.jpeg" alt="Description" width="200">
+    <img src="Images/Test_09.jpeg" alt="Description" width="200">
+    <img src="Images/Test_10.jpeg" alt="Description" width="200">
+    <img src="Images/Test_11.jpeg" alt="Description" width="200">
+    <img src="Images/Test_12.jpeg" alt="Description" width="200">    
+</p>
 
+<p align="center" float="left">
+    <img src="Images/Test_08.jpeg" alt="Description" width="200">
+    <img src="Images/Test_13.jpeg" alt="Description" width="200">
+    <img src="Images/Test_14.jpeg" alt="Description" width="200">
+    <img src="Images/Test_15.jpeg" alt="Description" width="200">
+    <img src="Images/Test_16.jpeg" alt="Description" width="200">
+    <img src="Images/Test_17.jpeg" alt="Description" width="200">
+</p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
