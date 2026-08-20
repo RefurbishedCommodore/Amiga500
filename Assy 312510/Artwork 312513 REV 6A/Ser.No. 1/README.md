@@ -589,7 +589,7 @@ Below is a gallery from the final testing.
 
 *"A picture is worth a thousand words"*
 
-Below is a collection of pictures of the final result of the refurbishment of this C64. Hope you like it! Click to enlarge!
+Below is a collection of pictures of the final result of the refurbishment of this Amiga 500. Hope you like it! Click to enlarge!
 
 </div>
 
