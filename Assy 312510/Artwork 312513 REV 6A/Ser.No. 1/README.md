@@ -111,7 +111,7 @@ The planned refurbishment activites for this Amiga 500 (Order may vary. Several 
 - [x] Refurbish the casing
 - [x] Refurbish mainboard
 - [x] Refurbish the keyboard
-- [ ] Testing and validation
+- [x] Testing and validation
 
 The plan can be updated during the refurbishment process. Sometimes I discover areas that needs special attention.
 <br>
