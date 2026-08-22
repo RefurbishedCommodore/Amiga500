@@ -21,7 +21,7 @@
       <a href="#starting-point">Starting point</a>
     </li>
     <li>
-      <a href="#refurbish-activities">Refurbish activities</a>
+      <a href="#refurbishment-activities">Refurbishment activities</a>
     </li>
     <li>
       <a href="#initial-testing">Initial testing</a>
