@@ -11,9 +11,6 @@
 ![Name](https://img.shields.io/badge/Revision-6A-white?style=plastic)
 ![Name](https://img.shields.io/badge/Video_format-PAL-white?style=plastic)
 
-<!--- MARK START --->
-
-
 # Table of contents
 
 <!-- TABLE OF CONTENTS -->
@@ -82,11 +79,13 @@
 
 # Starting point
 
-This Amiga 500 looks quite nice I think. It appears to be complete, and intact, from a mechanical point of view. It has obviously been opened previously as both warranty seals (on the underside and the rear) are broken. It is quite dirty - there is a significant amount of dirt and dust in the keyboard and the air grooves. There does not appear to be much corrosion on the metal shield and connectors on the rear.
+I think this Amiga 500 looks quite nice. It appears to be complete and intact from a mechanical point of view. It has obviously been opened previously, as both warranty seals (on the underside and rear) are broken.
 
-There is a blend of screws used on the bottom cover: three torx and three Phillips. Also, there are no machine screws holding the internal floppy drive. My hunch is that this machine has been repaired (or tried repaired) previously.
+It is quite dirty, with a significant amount of dirt and dust in the keyboard and air vents. There does not appear to be much corrosion on the metal shield or the connectors at the rear.
 
-Below are some pictures of the machine before refurbish (click to enlarge).
+There is a mixture of screws used on the bottom cover: three Torx and three Phillips. Also, there are no machine screws securing the internal floppy drive. My hunch is that this machine has been repaired, or at least an attempt has been made to repair it, previously.
+
+Below are some pictures of the machine before refurbishment (click to enlarge).
 
 <p align="center">
     <img src="Images/Start06.jpeg" alt="Description" width="600">
@@ -97,26 +96,30 @@ Below are some pictures of the machine before refurbish (click to enlarge).
     <img src="Images/Start01.jpeg" alt="Description" width="600">
 </p>
 
-There is something special interesting about this machine also: it´s serial number is #1. Of course, this is not a first Amiga of any kind. From some Google search I learned that Commodore used these #1 labels when machines were repaired/refurbished.
+There is something especially interesting about this machine as well: its serial number is #1. Of course, this does not mean that it is the first Amiga 500, or even the first Amiga of its kind. From some searching on Google, I learned that Amiga 500s with a serial number of exactly "1" are known to exist and are generally associated with machines that have been returned for service or refurbishment.
 
+So, this little #1 label is actually another clue that this machine has had a previous life in a repair or service centre.
 <p align="center">
     <img src="Images/Start07.jpeg" alt="Description" width="600">
 </p>
 <br>
 
-# Refurbish activities
+# Refurbishment activities
 
-The planned refurbishment activites for this Amiga 500 (Order may vary. Several of them in parallell):
+The planned refurbishment activities for this Amiga 500 are listed below. The order may vary, and several activities may be carried out in parallel:
 
 - [x] Refurbish the casing
 - [x] Refurbish mainboard
 - [x] Refurbish the keyboard
 - [x] Testing and validation
 
-The plan can be updated during the refurbishment process. Sometimes I discover areas that needs special attention.
+The plan can be updated during the refurbishment process. Sometimes I discover areas that need special attention.
 <br>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
+
+<!--- MARK START --->
 
 # Initial testing
 
