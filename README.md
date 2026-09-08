@@ -37,6 +37,8 @@ Sorry - none at the moment...
 
 # List - archived
 
+Click the serial number to access the documentation.
+
 [![Name](https://img.shields.io/badge/Serial_No.-1-white?style=plastic)](https://github.com/RefurbishedCommodore/Amiga500/tree/main/Assy%20312510/Artwork%20312513%20REV%206A/Ser.No.%201#readme)
 <br>
 [![Name](https://img.shields.io/badge/Assy-312510-white?style=plastic)](https://github.com/RefurbishedCommodore/Amiga500/tree/main/Assy312510)
