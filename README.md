@@ -6,7 +6,26 @@
 
 # Statistics
 
+The statistics below are based on newly refurbished Amiga 500 computers that are both documented in this GitHub repository and linked from refurbished-commodore.com. Older refurbished Amiga 500 computers that are only documented on the main website, refurbished-commodore.com, are not included in these statistics.
+
+***No-Fault-Ratios***
+
+The No-Fault Ratio indicates the likelihood that a randomly selected Amiga 500 has a working mainboard before refurbishment starts. A “working mainboard” is defined as a mainboard that passes all initial tests. Note that broken mechanical parts (e.g. keycaps or plungers) are not registered as faults..
+
+<div align="center">
+    
+| Total refurbished devices | Total failed initial test | NFR |
+|:----------:|:----------:|:----------:|
+| 1 | 1  | 0 % |
+
+</div>
+
+
 ***Faulty ICs***
+
+A faulty IC is defined as a chip that is either completely or partially non-functional.
+
+
 
 | Chip description | Chip version | Chip Location | Number of registered defective | Comment |
 |:----------:|:----------:|:----------:|:----------:|:----------:|
