@@ -81,3 +81,18 @@
 </details>
 
 # Starting point
+
+Chickenlips. Yes, Chickenlips. This is an Amiga 500 with the much sought after mechanical keyboard which was used in the early models of this magnificent machine. You can see the "Chickenlips" Commodore logo on the left side, located between the spacebar and the ALT key. When you see this "Chickenlips" you know that this is a mechanical keyboard. Later models of the Amiga 500 have the *italic "A"* symbol instead. Also, early Amiga 500 models have the embossed Commodore logo on the right hand side, just above the keyboard. Later model only have the Commodore logo on a sticker. And a small little detail: early Amigas have a RED power LED (not the GREEN which was used in later models).
+
+Nevertheless, back to the job. From a starting point the first thing to notice is that there are one screw missing, and most of the other screws are held in place with tape. This is reported to be one of the problems requested to look into. Another issue is the side panel on the left hand side which is gone missing.
+
+There is some dust and grease on the covers and the keyboard, but nothing substantial. The machine is expected to be working, but it is reported to have had some issues early on.
+
+Below are some pictures of the Amiga 500 before refurbishment.
+
+
+
+
+
+
+
