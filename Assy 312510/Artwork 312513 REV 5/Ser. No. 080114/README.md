@@ -120,9 +120,14 @@ The results are shown in the table below:
   
 | Test area | Test criteria | Result | Comment |
 |:----------|:----------|:----------:|:----------|
-| Boot up | ROM boot up screen is displayed | TBD | TBD |
-| Floppy | Floppy drive is ticking | TBD | TBD | 
-| LED | LED lights are lit correct | TBD | TBD|
+| Boot up | ROM boot up screen is displayed | PASSED | Kickstart 1.2 |
+| Floppy | Floppy drive is ticking | PASSED |  | 
+| LED | LED lights are lit correct | PASSED | RED power light|
+| RAM | No errors on memory scan | PASSED | Amiga Test Kit |
+| Audio | Music/Sinewave plays normal | PASSED | Amiga Test Kit |
+| Video | No visual errors  | PASSED | Amiga Test Kit |
+| CIA | No timer errors  | PASSED | Amiga Test Kit |
+| Keyboard | All keys are registered  | PASSED | Amiga Test Kit |
 
 </div>
 
