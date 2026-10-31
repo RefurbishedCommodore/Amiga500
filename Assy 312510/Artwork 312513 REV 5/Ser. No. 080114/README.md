@@ -99,6 +99,19 @@ Below are some pictures of the machine before refurbishment (click to enlarge).
     <img src="Images/Start_06.jpeg" alt="Description" width="600">
 </p>
 
+# Refurbishment activities
+
+The planned refurbishment activities for this Amiga 500 are listed below. The order may vary, and several activities may be carried out in parallel:
+
+- [ ] Refurbish the casing
+- [ ] Refurbish mainboard
+- [ ] Refurbish the keyboard
+- [ ] Testing and validation
+
+The plan can be updated during the refurbishment process. Sometimes I discover areas that need special attention.
+<br>
+
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 
 
