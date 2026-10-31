@@ -88,8 +88,16 @@ Nevertheless, back to the job. From a starting point the first thing to notice i
 
 There is some dust and grease on the covers and the keyboard, but nothing substantial. The machine is expected to be working, but it is reported to have had some issues early on.
 
-Below are some pictures of the Amiga 500 before refurbishment.
+Below are some pictures of the machine before refurbishment (click to enlarge).
 
+<p align="center">
+    <img src="Images/Start06.jpeg" alt="Description" width="600">
+    <img src="Images/Start05.jpeg" alt="Description" width="600">
+    <img src="Images/Start04.jpeg" alt="Description" width="600">
+    <img src="Images/Start03.jpeg" alt="Description" width="600">
+    <img src="Images/Start02.jpeg" alt="Description" width="600">
+    <img src="Images/Start01.jpeg" alt="Description" width="600">
+</p>
 
 
 
