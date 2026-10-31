@@ -16,7 +16,7 @@ The No-Fault Ratio indicates the likelihood that a randomly selected Amiga 500 h
     
 | Total refurbished devices | Total passed initial test | NFR |
 |:----------:|:----------:|:----------:|
-| 1 | 0  | 0 % |
+| 2 | 1  | 50 % |
 
 </div>
 
