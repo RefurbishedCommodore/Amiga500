@@ -33,7 +33,12 @@ A faulty IC is defined as a chip that is either completely or partially non-func
 
 # Loading - in progress
 
-Sorry - none at the moment...
+[![Name](https://img.shields.io/badge/Serial_No.-080114-white?style=plastic)](https://github.com/RefurbishedCommodore/Amiga500/blob/main/Assy%20312510/Artwork%20312513%20REV%205/Ser.%20No.%20080114/README.md)
+<br>
+[![Name](https://img.shields.io/badge/Assy-312510-white?style=plastic)](https://github.com/RefurbishedCommodore/Amiga500/tree/main/Assy312510)
+[![Name](https://img.shields.io/badge/Artwork-312513-white?style=plastic)](https://github.com/RefurbishedCommodore/Amiga500/tree/main/Assy312510/Artwork312513_REV6A)
+[![Name](https://img.shields.io/badge/Revision-5-white?style=plastic)](https://github.com/RefurbishedCommodore/Amiga500/tree/main/Assy312510/Artwork312513_REV6A)
+![Name](https://img.shields.io/badge/Video_format-PAL-white?style=plastic)
 
 # List - archived
 
