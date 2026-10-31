@@ -1,1 +1,83 @@
+<p align="center">
+    <img src="https://github.com/RefurbishedCommodore/RefurbishedCommodore/blob/main/Images/LogoNew.png" alt="Description" width="400">
+</p>
 
+# Amiga 500
+
+![Name](https://img.shields.io/badge/Serial_No.-080114-white?style=plastic)
+<br>
+[![Name](https://img.shields.io/badge/Assy-312510-white?style=plastic)](https://github.com/RefurbishedCommodore/Amiga500/tree/main/Assy312510)
+[![Name](https://img.shields.io/badge/Artwork-312513-white?style=plastic)](https://github.com/RefurbishedCommodore/Amiga500/tree/main/Assy312510/Artwork312513_REV6A)
+[![Name](https://img.shields.io/badge/Revision-5-white?style=plastic)](https://github.com/RefurbishedCommodore/Amiga500/tree/main/Assy312510/Artwork312513_REV6A)
+![Name](https://img.shields.io/badge/Video_format-PAL-white?style=plastic)
+
+
+
+
+# Table of contents
+
+<!-- TABLE OF CONTENTS -->
+<details>
+<summary>TOC - Click to enlarge</summary>
+  <ul>
+    <li>
+      <a href="#starting-point">Starting point</a>
+    </li>
+    <li>
+      <a href="#refurbishment-activities">Refurbishment activities</a>
+    </li>
+    <li>
+      <a href="#initial-testing">Initial testing</a>
+    </li>
+    <li>
+      <a href="#disassembly">Disassembly</a>
+    </li>
+    <li>
+      <a href="#mainboard">Mainboard</a>
+      <ul>
+        <li>
+          <a href="#visual-inspection">Visual inspection</a>
+        </li>
+        <li>
+          <a href="#checking-the-voltages">Checking the voltages</a>
+        </li>
+        <li>
+          <a href="#troubleshooting-and-repair">Troubleshooting and repair</a>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <a href="#keyboard">Keyboard</a>
+      <ul>
+        <li>
+          <a href="#initial-testing">Initial testing</a>
+        </li>
+        <li>
+          <a href="#disassembly">Disassembly</a>
+        </li>
+        <li>
+          <a href="#cleaning">Cleaning</a>
+        </li>
+        <li>
+          <a href="#reassembly">Reassembly</a>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <a href="#casing">Casing</a>
+      <ul>
+        <li>
+          <a href="#cleaning-the-covers">Cleaning the covers</a>
+        </li>     
+      </ul>
+    </li>
+    <li>
+      <a href="#testing">Testing</a>
+    </li>
+    <li>
+      <a href="#final-result">Final result</a>
+    </li>
+  </ul>
+</details>
+
+# Starting point
