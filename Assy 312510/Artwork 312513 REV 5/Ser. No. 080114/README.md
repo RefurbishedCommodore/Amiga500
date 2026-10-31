@@ -86,17 +86,17 @@ Chickenlips. Yes, Chickenlips. This is an Amiga 500 with the much sought after m
 
 Nevertheless, back to the job. From a starting point the first thing to notice is that there are one screw missing, and most of the other screws are held in place with tape. This is reported to be one of the problems requested to look into. Another issue is the side panel on the left hand side which is gone missing.
 
-There is some dust and grease on the covers and the keyboard, but nothing substantial. The machine is expected to be working, but it is reported to have had some issues early on.
+There is some dust and grease on the covers and the keyboard, but nothing substantial. The machine is expected to be working, but it is reported to have had some issues early on. The covers are not very yellowed - as is the same for the keyboard.
 
 Below are some pictures of the machine before refurbishment (click to enlarge).
 
 <p align="center">
-    <img src="Images/Start06.jpeg" alt="Description" width="600">
-    <img src="Images/Start05.jpeg" alt="Description" width="600">
-    <img src="Images/Start04.jpeg" alt="Description" width="600">
-    <img src="Images/Start03.jpeg" alt="Description" width="600">
-    <img src="Images/Start02.jpeg" alt="Description" width="600">
-    <img src="Images/Start01.jpeg" alt="Description" width="600">
+    <img src="Images/Start_01.jpeg" alt="Description" width="600">
+    <img src="Images/Start_02.jpeg" alt="Description" width="600">
+    <img src="Images/Start_03.jpeg" alt="Description" width="600">
+    <img src="Images/Start_04.jpeg" alt="Description" width="600">
+    <img src="Images/Start_05.jpeg" alt="Description" width="600">
+    <img src="Images/Start_06.jpeg" alt="Description" width="600">
 </p>
 
 
