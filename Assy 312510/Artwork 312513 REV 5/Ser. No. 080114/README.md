@@ -154,6 +154,14 @@ The top cover is lifted away and the interior is exposed. The first things I not
     <img src="Images/Dis_04.jpeg" alt="Description" width="700">
 </p>
 
+Next action is to remove the keyboard. This is done by simply (carefully) pulling the 8-pin connector (of which only seven pins are used). **NOTE:** Take care to remember the original direction of the keyboard connector as this can be installed the wrong way when re-assembling. When the keyboard is removed the whole RF-shield is exposed. The RF-shields is almost without any corrosion. Also, it looks like the four metal tabs are intact - which is not that common. These are quite fragile and easily break.
+
+<p align="center">
+    <img src="Images/Dis_05.jpeg" alt="Description" width="600">
+</p>
+
+
+
 **Footnotes**
 
 [^1]: Phillips pan head (5.5 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 8.0 mm
