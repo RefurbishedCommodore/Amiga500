@@ -172,6 +172,16 @@ The four Phillips head screws[^3] are removed (see white arrows above), the four
     <img src="Images/Dis_07.jpeg" alt="Description" width="400">
 </p>
 
+With the RF-shield removed the mainboard is exposed. And it looks to be in very good condition at first glance. There are some dust inside, but other than that it looks very nice. A thorough visual inspection of the mainboard will be done later.
+
+<p align="center">
+    <img src="Images/Dis_08.jpeg" alt="Description" width="700">
+</p>
+
+
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
+
 **Footnotes**
 
 [^1]: Phillips pan head (5.5 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 8.0 mm
