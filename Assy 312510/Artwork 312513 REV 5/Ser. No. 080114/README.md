@@ -143,9 +143,12 @@ Disassembling the Amiga 500 is straightforward. First is to remove the six screw
 
 With the six (five!) screws put of the way the machine is flipped back to upright position. Now the top cover is carefully pried off - note that there are two small plastic clips in the slit on each side of the covers. I recommend using a thin plastic spudger when releasing the small clips.
 
-<p align="center" float="left">
+<p align="center">
     <img src="Images/Dis_02.jpeg" alt="Description" width="600">
-    <img src="Images/Dis_03.jpeg" alt="Description" width="356">
+</p>
+
+<p align="center">
+    <img src="Images/Dis_03.jpeg" alt="Description" width="400">
 </p>
 
 The top cover is lifted away and the interior is exposed. The first things I notice is that the floppy drive is previously refurbished by [retrofix.co.uk](https://retrofix.co.uk/), and that there are some corrosion on both the floppy drive and the keyboard metal backside plate.
