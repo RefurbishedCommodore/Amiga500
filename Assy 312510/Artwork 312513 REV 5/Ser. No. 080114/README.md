@@ -164,6 +164,14 @@ Also, there is a 512 kB RAM module installed. This is pulled out of the machine 
 
 The four Phillips head screws[^3] are removed (see white arrows above), the four metal tabs are folded to upright position (see black arrows above) and the metal RF-shield is lifted from the mainboard. **NOTE:** When removing the RF-shield make sure to clean it properly soon after. The metal shield will easily start to corrode if there are fat/grease from human hands.
 
+<p align="center">
+    <img src="Images/Dis_06.jpeg" alt="Description" width="400">
+</p>
+
+<p align="center">
+    <img src="Images/Dis_07.jpeg" alt="Description" width="400">
+</p>
+
 **Footnotes**
 
 [^1]: Phillips pan head (5.5 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 8.0 mm
