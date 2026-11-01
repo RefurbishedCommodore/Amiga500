@@ -148,6 +148,12 @@ With the six (five!) screws put of the way the machine is flipped back to uprigh
     <img src="Images/Dis_03.jpeg" alt="Description" width="356">
 </p>
 
+The top cover is lifted away and the interior is exposed. The first things I notice is that the floppy drive is previously refurbished by [retrofix.co.uk](https://retrofix.co.uk/), and that there are some corrosion on both the floppy drive and the keyboard metal backside plate.
+
+<p align="center">
+    <img src="Images/Dis_04.jpeg" alt="Description" width="600">
+</p>
+
 **Footnotes**
 
 [^1]: Phillips pan head (5.5 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 8.0 mm
