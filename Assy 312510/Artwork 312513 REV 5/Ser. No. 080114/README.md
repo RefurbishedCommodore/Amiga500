@@ -151,7 +151,7 @@ With the six (five!) screws put of the way the machine is flipped back to uprigh
 The top cover is lifted away and the interior is exposed. The first things I notice is that the floppy drive is previously refurbished by [retrofix.co.uk](https://retrofix.co.uk/), and that there are some corrosion on both the floppy drive and the keyboard metal backside plate.
 
 <p align="center">
-    <img src="Images/Dis_04.jpeg" alt="Description" width="600">
+    <img src="Images/Dis_04.jpeg" alt="Description" width="700">
 </p>
 
 **Footnotes**
