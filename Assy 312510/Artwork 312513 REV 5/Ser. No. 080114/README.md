@@ -83,7 +83,7 @@ Chickenlips. Yes, Chickenlips. This is an Amiga 500 with the much sought after m
 
 Nevertheless, back to the job. From a starting point the first thing to notice is that there are one screw missing, and most of the other screws are held in place with tape. This is reported to be one of the problems requested to look into. Another issue is the side panel on the left hand side which is gone missing.
 
-There is some dust and grease on the covers and the keyboard, but nothing substantial. The machine is expected to be working, but it is reported to have had some issues early on. The covers are not very yellowed - as is the same for the keyboard.
+There is some dust and grease on the covers and the keyboard, but nothing substantial. The machine is expected to be working, but it is reported to have had some issues early on (such as the floppy drive being very sensitive with disk detection). The covers are not very yellowed - as is the same for the keyboard.
 
 Below are some pictures of the machine before refurbishment (click to enlarge).
 
