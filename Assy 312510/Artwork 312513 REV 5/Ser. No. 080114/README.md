@@ -181,8 +181,8 @@ With the RF-shield removed the mainboard is exposed. And it looks to be in very 
 The bottom cover and the bottom RF-shield also seem to be in fine condition too. There are some dust, but other than that I think this looks great.
 
 <p align="center" float="left">
-    <img src="Images/Dis11.jpeg" alt="Description" width="400">
-    <img src="Images/Dis12.jpeg" alt="Description" width="431">
+    <img src="Images/Dis_09.jpeg" alt="Description" width="400">
+    <img src="Images/Dis_10.jpeg" alt="Description" width="431">
 </p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
