@@ -200,6 +200,40 @@ Notice that to remove the mainboard from the RF-shield all the 12 hex nut bolts 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 
+# Mainboard
+
+This mainboard is the Assy 312510/Artwork 312513 Rev 5. This is one of the earlier revisions with the older Fat Agnus and eight RAM chips.
+
+## Visual inspection
+
+UPDATE TEXT
+
+The mainboard appears to be in very fine condition. I can not see any signs of either damage or repair. There is of course the normal amount of dust laying around on the mainboard, but that is to be expected after so many years. On the backside of the mainboard there are some flux residue, also on some individual pins. But I can not see any obvious signs of rework. I can not see any smoking gun why the mainboard should be faulty.
+
+In the table below all the major custom IC found on the mainboard are listed. As can be seen from the table the custom MOS chips were produced during a time interval from week 51 in 1990 to week 24 in 1991. I think it is a fair guess that this Amiga 500 were manufactured sometime late summer or early autumn.
+
+UPDATE TABLE
+
+<div align="center">
+  
+| Chip/Area | Manufactor | Version | Date code | Socket | Note |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+| CPU | SIGNETICS | SCN68000C8N64 | W17 Y1987 | Yes |  |
+| KICKSTART | MOS | 315093-01 | Unknown | Yes | Kickstart 1.2 |
+| DENISE | MOS | 8362R8 | W23 Y1987 | Yes | |
+| FAT AGNUS | CSG | 8372A 318069-02 | W17 Y1991 | Yes | 1MB / ECS |
+| PAULA | MOS | 8364R7 | W21 Y1987 | Yes | |
+| GARY | CBM | 5719 TC17G008AP-0025 | W21 Y1987 | Yes | |
+| ODD CIA | MOS | 8520 A-1 | W23 Y1987 | Yes | |
+| EVEN CIA | MOS | 8520 A-1 | W23 Y1987 | Yes | |
+| RAM | TEXAS INSTRUMENTS | TMS4256-15NL | W14 Y1987 | No | |
+| DATA PATH | TEXAS INSTRUMENTS | SN74LS373N | W19 Y1987 | No | U11, U13 |
+| DATA PATH | HITATCHI | HD74LS244P | Unknown | No | U10, U12 |
+
+</div>
+
+
+
 **Footnotes**
 
 [^1]: Phillips pan head (5.5 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 8.0 mm
