@@ -135,7 +135,7 @@ The results are shown in the table below:
 
 # Disassembly
 
-Disassembling the Amiga 500 is straightforward. First is to remove the six screws at the underside of the machine. But, as mentioned earlier, there are only five screws on this Amiga 500. And the screws are covered with some tape. 
+Disassembling the Amiga 500 is straightforward. First is to remove the six screws[^1][^2] at the underside of the machine. But, as mentioned earlier, there are only five screws on this Amiga 500. And the screws are covered with some tape. Also, one of the screws at the rear side is longer than the rest (9.5 mm)[^2]. 
 
 <p align="center">
     <img src="Images/DIs_01.jpeg" alt="Description" width="800">
@@ -147,3 +147,9 @@ With the six (five!) screws put of the way the machine is flipped back to uprigh
     <img src="Images/Dis_02.jpeg" alt="Description" width="600">
     <img src="Images/Dis_03.jpeg" alt="Description" width="356">
 </p>
+
+**Footnotes**
+
+[^1]: Phillips pan head (5.5 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 8.0 mm
+[^2]: Phillips pan head (5.5 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 9.5 mm
+
