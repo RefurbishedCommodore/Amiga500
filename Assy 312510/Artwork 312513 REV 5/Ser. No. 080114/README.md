@@ -232,7 +232,22 @@ UPDATE TABLE
 
 </div>
 
+## Checking the voltages
 
+It is good practice to measure the voltages - to verify that all voltages are present and within tolerances. Voltages which are not within acceptable tolerances are often a symptom of faults (just like a doctor would check temperature and blood samples).
+
+As the table below show all voltages are present and ok. Note that this table will be updated after completing the refurbish.
+
+<div align="center">
+    
+| Measure point | Target voltage | Measured voltage<br>(Before refurbish) | Measured voltage<br>(After refurbish) | Note |
+|:----------:|:----------:|:----------:|:----------:|:----------:|
+| PSU (5V) / VCC | +5 V DC | TBD V | TBD V | C815 |
+| PSU (5V) / VCC | +5 V DC | TBD V | TBD V | C821 |
+| PSU (5V) / VCC | +5 V DC | TBD V | TBD V | C822 |
+| PSU (5V) / VCC | +5 V DC | TBD V | TBD V | Pin #14 U33 |
+
+</div>
 
 **Footnotes**
 
