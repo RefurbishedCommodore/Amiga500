@@ -208,9 +208,9 @@ This mainboard is the Assy 312510/Artwork 312513 Rev 5. This is one of the earli
 
 UPDATE TEXT
 
-The mainboard appears to be in very fine condition. I can not see any signs of either damage or repair. There is of course the normal amount of dust laying around on the mainboard, but that is to be expected after so many years. On the backside of the mainboard there are some flux residue, also on some individual pins. But I can not see any obvious signs of rework. I can not see any smoking gun why the mainboard should be faulty.
+The mainboard appears to be in fine condition. I can not see any signs of either damage or repair. There is of course the normal amount of dust laying around on the mainboard, but that is to be expected after so many years. On the backside of the mainboard there are some flux residue where some of the connectors are soldered to the mainboard. There is a small resistor soldered to the backside of the mainboard, but I think this is from factory.
 
-In the table below all the major custom IC found on the mainboard are listed. As can be seen from the table the custom MOS chips were produced during a time interval from week 51 in 1990 to week 24 in 1991. I think it is a fair guess that this Amiga 500 were manufactured sometime late summer or early autumn.
+In the table below all the major custom IC found on the mainboard are listed. As can be seen from the table the custom MOS chips were produced during a time interval from week 14 in 1987 to week 23 in 1987. I think it is a fair guess that this Amiga 500 were manufactured sometime in the summer or early autumn of 1987.
 
 UPDATE TABLE
 
@@ -231,6 +231,17 @@ UPDATE TABLE
 | DATA PATH | HITATCHI | HD74LS244P | Unknown | No | U10, U12 |
 
 </div>
+
+Below are some pictures of the mainboard before repair and refurbish.
+
+<p align="center">
+    <img src="Images/Main_01.jpeg" alt="Description" width="1000">
+</p>
+
+<p align="center">
+    <img src="Images/Main_02.jpeg" alt="Description" width="1000">
+</p>
+
 
 ## Checking the voltages
 
