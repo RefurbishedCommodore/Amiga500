@@ -210,9 +210,9 @@ UPDATE TEXT
 
 The mainboard appears to be in fine condition. I can not see any signs of either damage or repair. There is of course the normal amount of dust laying around on the mainboard, but that is to be expected after so many years. On the backside of the mainboard there are some flux residue where some of the connectors are soldered to the mainboard. There is a small resistor soldered to the backside of the mainboard, but I think this is from factory.
 
-In the table below all the major custom IC found on the mainboard are listed. As can be seen from the table the custom MOS chips were produced during a time interval from week 14 in 1987 to week 23 in 1987. I think it is a fair guess that this Amiga 500 were manufactured sometime in the summer or early autumn of 1987.
+Some of the solder on the front side of the mainboard is a bit dull looking. But I do not think this is due to any leakage. Instead, my guess is that is due to using lead-free solder. I can not see any kind of leakage from capacitors - or bulging capacitors.
 
-UPDATE TABLE
+In the table below all the major custom IC found on the mainboard are listed. As can be seen from the table the custom MOS chips were produced during a time interval from week 14 in 1987 to week 23 in 1987. I think it is a fair guess that this Amiga 500 were manufactured sometime in the summer or early autumn of 1987. The same summer the song La Bamba (Los Lobos) were played non-stop on the radio...
 
 <div align="center">
   
