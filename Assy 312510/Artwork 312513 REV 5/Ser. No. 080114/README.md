@@ -253,10 +253,10 @@ As the table below show all voltages are present and ok. Note that this table wi
     
 | Measure point | Target voltage | Measured voltage<br>(Before refurbish) | Measured voltage<br>(After refurbish) | Note |
 |:----------:|:----------:|:----------:|:----------:|:----------:|
-| PSU (5V) / VCC | +5 V DC | TBD V | TBD V | C815 |
-| PSU (5V) / VCC | +5 V DC | TBD V | TBD V | C821 |
-| PSU (5V) / VCC | +5 V DC | TBD V | TBD V | C822 |
-| PSU (5V) / VCC | +5 V DC | TBD V | TBD V | Pin #14 U33 |
+| PSU (5V) / VCC | +5 V DC | 5.119 V | TBD V | C815 |
+| PSU (12V) / VCC | +12 V DC | 12.18 V | TBD V | C821 |
+| PSU (-12V) / VCC | -12 V DC | -12.06 V | TBD V | C822 |
+| PSU (5V) / VCC | +5 V DC | 5.121 V | TBD V | Pin #14 U33 |
 
 </div>
 
