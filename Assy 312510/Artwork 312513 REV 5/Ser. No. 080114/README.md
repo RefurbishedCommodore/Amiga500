@@ -265,11 +265,11 @@ As the table below show all voltages are present and ok. Note that this table wi
 The keyboard is the desirable "Chickenlips" mechanical keyboards. It appears to be in good condition. It is quite dirty - the keypcaps are covered with old grease and grime. But the keyboards feels nice to the touch, and appears to be undamaged. There is not much yellowing either. Below are some picture of the keyboard before refurbishment.
 
 <p align="center">
-    <img src="Images/Keyb01.jpeg" alt="Description" width="1000">
+    <img src="Images/Keyb_01.jpeg" alt="Description" width="1000">
 </p>
 
 <p align="center">
-    <img src="Images/Keyb02.jpeg" alt="Description" width="1000">
+    <img src="Images/Keyb_02.jpeg" alt="Description" width="1000">
 </p>
 
 
