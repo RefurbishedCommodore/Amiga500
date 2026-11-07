@@ -296,7 +296,7 @@ The following five keycaps all have a metal "U" shaped bracket used to stabilise
 - Right **SHIFT**
 - **TAB** key
 
-
+With the keycaps out of the way, it is easy to see that there is quite some corrosion on the metal plate. I will try to remove some of this, but most is likely to stay behind. It is so hard to remove all these spots. And they do not harm the keyboard in any way.
 
 **Footnotes**
 
