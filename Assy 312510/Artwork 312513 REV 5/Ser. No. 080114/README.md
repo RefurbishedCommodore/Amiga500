@@ -306,6 +306,11 @@ Below is a picture of the damaged switch (with the "hack").
     <img src="Images/Keyb_05.jpeg" alt="Description" width="800">
 </p>
 
+And this is how a normal Hi-tek switch should look.
+
+<p align="center">
+    <img src="Images/Keyb_06.jpeg" alt="Description" width="800">
+</p>
 **Footnotes**
 
 [^1]: Phillips pan head (5.5 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 8.0 mm
