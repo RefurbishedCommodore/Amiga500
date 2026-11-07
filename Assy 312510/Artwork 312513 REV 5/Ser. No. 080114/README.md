@@ -341,7 +341,9 @@ Even if the "S" key partly work is needs to be replaced. This key is labeled "54
 
 All the keycaps are placed in a box filled with mild soapy water for about 48 hours. This will dissolve most of the grime and dirt.
 
-
+<p align="center">
+    <img src="Images/Keyb_11.jpeg" alt="Description" width="600">
+</p>
 
 **Footnotes**
 
