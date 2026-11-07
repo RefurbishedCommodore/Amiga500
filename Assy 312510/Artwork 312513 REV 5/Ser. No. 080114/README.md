@@ -300,6 +300,12 @@ With the keycaps out of the way, it is easy to see that there is quite some corr
 
 The white "S" key top is lifted to see if I can find out why it is to iffy. And, hm, what is this? Inside the white cap there is some "stuff" (it looks like some kind of organic rubber?), and the two metal arms are cut and bent. This is, without any doubt, the reason for why the key is not working as it should. My guess is that this key has been heavily used, and in an attempt to repair the key a previous owner has made a little hack.
 
+Below is a picture of the damaged switch (with the "hack").
+
+<p align="center">
+    <img src="Images/Keyb_05.jpeg" alt="Description" width="800">
+</p>
+
 **Footnotes**
 
 [^1]: Phillips pan head (5.5 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 8.0 mm
