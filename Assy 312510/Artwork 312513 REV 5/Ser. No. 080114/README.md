@@ -280,6 +280,24 @@ Before the keyboard is disassembled it is tested using the [Amiga Test Kit](http
     <img src="Images/Keyb_03.png" alt="Description" width="500">
 </p>
 
+## Disassembly
+
+All the 96 keycaps are carefully removed with a [keycap puller](https://refurbished-commodore.com/tools). Amongst these, there are six keycaps which requires special attention when removed. **NOTE:** When pulling the keycaps be very gentle. The "Chickenlips" keycaps should come off very easily, but from time to time you are likely to pull the whole switching mechanism out.
+
+<p align="center">
+    <img src="Images/Keyb_04.jpeg" alt="Description" width="800">
+</p>
+
+The following five keycaps all have a metal "U" shaped bracket used to stabilise the keycap:
+
+- **ENTER** key on the numpad
+- **0** key on the numpad
+- **ENTER** key on the main keyboard
+- Right **SHIFT**
+- **TAB** key
+
+
+
 **Footnotes**
 
 [^1]: Phillips pan head (5.5 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 8.0 mm
