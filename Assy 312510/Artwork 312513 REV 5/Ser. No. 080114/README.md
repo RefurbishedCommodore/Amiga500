@@ -53,6 +53,9 @@
           <a href="#disassembly">Disassembly</a>
         </li>
         <li>
+          <a href="#repair">Repair</a>
+        </li>
+        <li>
           <a href="#cleaning">Cleaning</a>
         </li>
         <li>
