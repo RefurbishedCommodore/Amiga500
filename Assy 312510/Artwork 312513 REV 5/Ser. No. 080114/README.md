@@ -299,6 +299,7 @@ The following five keycaps all have a metal "U" shaped bracket used to stabilise
 With the keycaps out of the way, it is easy to see that there is quite some corrosion on the metal plate. I will try to remove some of this, but most is likely to stay behind. It is so hard to remove all these spots. And they do not harm the keyboard in any way.
 
 The white "S" key top is lifted to see if I can find out why it is to iffy. And, hm, what is this? Inside the white cap there is some "stuff" (it looks like some kind of organic rubber?), and the two metal arms are cut and bent. This is, without any doubt, the reason for why the key is not working as it should. My guess is that this key has been heavily used, and in an attempt to repair the key a previous owner has made a little hack.
+
 **Footnotes**
 
 [^1]: Phillips pan head (5.5 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 8.0 mm
