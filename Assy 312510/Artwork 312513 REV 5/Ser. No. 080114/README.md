@@ -309,8 +309,23 @@ Below is a picture of the damaged switch (with the "hack").
 And this is how a normal Hi-tek switch should look.
 
 <p align="center">
-    <img src="Images/Keyb_06.jpeg" alt="Description" width="800">
+    <img src="Images/Keyb_06.jpeg" alt="Description" width="600">
 </p>
+
+Inside the white key top there is some kind of rubber? Looks like pacman?
+
+<p align="center">
+    <img src="Images/Keyb_07.jpeg" alt="Description" width="400">
+</p>
+
+<p align="center">
+    <img src="Images/Keyb_08.jpeg" alt="Description" width="400">
+</p>
+
+## Repair
+
+Even if the "S" key partly work is needs to be replaced. 
+
 **Footnotes**
 
 [^1]: Phillips pan head (5.5 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 8.0 mm
