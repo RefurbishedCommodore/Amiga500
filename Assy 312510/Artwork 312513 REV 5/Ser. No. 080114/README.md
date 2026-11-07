@@ -327,7 +327,21 @@ Inside the white key top there is some kind of rubber? Looks like pacman?
 
 ## Repair
 
-Even if the "S" key partly work is needs to be replaced. 
+Even if the "S" key partly work is needs to be replaced. This key is labeled "54" on the PCB, and is desoldered without any damage to traces or pads.
+
+<p align="center">
+    <img src="Images/Keyb_09.jpeg" alt="Description" width="600">
+</p>
+
+<p align="center">
+    <img src="Images/Keyb_10.jpeg" alt="Description" width="600">
+</p>
+
+## Cleaning
+
+All the keycaps are placed in a box filled with mild soapy water for about 48 hours. This will dissolve most of the grime and dirt.
+
+
 
 **Footnotes**
 
