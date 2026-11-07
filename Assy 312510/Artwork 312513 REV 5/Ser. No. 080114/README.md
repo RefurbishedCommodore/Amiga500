@@ -277,7 +277,7 @@ The keyboard is the desirable "Chickenlips" mechanical keyboards (HI-TEK Corpora
 Before the keyboard is disassembled it is tested using the [Amiga Test Kit](https://refurbished-commodore.com/tools) software. But now I notice something strange: the "S" key is quite iffy. It does not feel like responding as it should. As can be seen from the picture below all keys are working fine (with the exception of the "S" key which is not).
 
 <p align="center">
-    <img src="Images/Keyb03.jpeg" alt="Description" width="500">
+    <img src="Images/Keyb_03.png" alt="Description" width="500">
 </p>
 
 **Footnotes**
