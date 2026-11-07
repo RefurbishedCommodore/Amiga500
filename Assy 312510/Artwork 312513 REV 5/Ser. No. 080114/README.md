@@ -345,6 +345,11 @@ All the keycaps are placed in a box filled with mild soapy water for about 48 ho
     <img src="Images/Keyb_11.jpeg" alt="Description" width="600">
 </p>
 
+# Casing
+
+## Cleaning the covers
+
+
 **Footnotes**
 
 [^1]: Phillips pan head (5.5 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 8.0 mm
