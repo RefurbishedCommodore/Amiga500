@@ -347,8 +347,19 @@ All the keycaps are placed in a box filled with mild soapy water for about 48 ho
 
 # Casing
 
+As mentioned previously there are some dust and grease on the covers, but nothing substantial. Also, there are some marks from the (missing) warranty seal. There are no rubber feet neither. I am not completely sure they were there in the first place, but there are some sticky "goo" where these rubber feet would sit. So I think it is a fair assumption that these rubber feet have been removed at some point.
+
+The most challenging thing with these covers is its lack of ability to hold the screws in place. This would be caused by cracked screw mounting posts and/or ripped threads inside the mounting posts.
+
+The covers are not very yellowed, so there is no need for retrobrighting.
+
 ## Cleaning the covers
 
+Both the top and bottom cover are placed in mild soapy water for about 48 hours. That will remove most of the dust and grease.
+
+<p align="center">
+    <img src="Images/Case_01.jpeg" alt="Description" width="600">
+</p>
 
 **Footnotes**
 
