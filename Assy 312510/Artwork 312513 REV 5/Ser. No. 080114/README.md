@@ -38,9 +38,6 @@
         <li>
           <a href="#checking-the-voltages">Checking the voltages</a>
         </li>
-        <li>
-          <a href="#troubleshooting-and-repair">Troubleshooting and repair</a>
-        </li>
       </ul>
     </li>
     <li>
@@ -68,7 +65,10 @@
       <ul>
         <li>
           <a href="#cleaning-the-covers">Cleaning the covers</a>
-        </li>     
+        </li> 
+        <li>
+          <a href="#repairing-the-screw-mounting-posts">Repairing the screw mounting posts</a>
+        </li> 
       </ul>
     </li>
     <li>
@@ -360,6 +360,19 @@ Both the top and bottom cover are placed in mild soapy water for about 48 hours.
 <p align="center">
     <img src="Images/Case_01.jpeg" alt="Description" width="600">
 </p>
+
+After the long bath, the covers are continued cleaning. This time using some isopropanol on the sticker residue, and some glass cleaning spray to remove the last remaining stains. Below are some pictures of the cleaned covers.
+
+<p align="center">
+    <img src="Images/Case_03.jpeg" alt="Description" width="600">
+</p>
+
+<p align="center">
+    <img src="Images/Case_02.jpeg" alt="Description" width="600">
+</p>
+
+## Repairing the screw mounting posts
+
 
 **Footnotes**
 
