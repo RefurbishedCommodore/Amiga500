@@ -10,7 +10,7 @@ The statistics below are based on newly refurbished Amiga 500 computers that are
 
 ***No-Fault-Ratios***
 
-The No-Fault Ratio indicates the likelihood that a randomly selected Amiga 500 has a working mainboard before refurbishment starts. A “working mainboard” is defined as a mainboard that passes all initial tests related to the mainboard. Note that broken mechanical parts, faulty/marginal floppy drive and keyboard (e.g. keycaps or plungers) are not registered as faults..
+The No-Fault Ratio indicates the likelihood that a randomly selected Amiga 500 has a working mainboard before refurbishment starts. A “working mainboard” is defined as a mainboard that passes all mainboard related tests: both initial tests and any thorough testing during the refurbishment. Note that broken mechanical parts, faulty/marginal floppy drive and keyboard (e.g. keycaps or plungers) are not registered as faults..
 
 <div align="center">
     
